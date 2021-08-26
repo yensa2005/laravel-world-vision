@@ -23,8 +23,6 @@
                 @include('layouts.user_partial.siderbar')
                 </div>
                 @yield('content')
-                {{-- @include('news.pages.home') --}}
-
                 <!-- footer -->
                 @include('layouts.user_partial.footer')
                 <!-- partial -->
