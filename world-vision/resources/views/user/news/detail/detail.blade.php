@@ -1,6 +1,6 @@
-@extends('layouts.uer_layoutpost')
+@extends('layouts.uer_layout_news_detail')
 
-@section('title', 'PostPage')
+@section('title', 'NewsDetailPage')
 
 @section('content')
     <div class="col-lg-9">

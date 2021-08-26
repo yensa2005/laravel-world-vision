@@ -10,12 +10,17 @@ class PagesController extends Controller
     {
         return view('user.home.index');
     }
-    public function getPost()
+
+    public function getNews()
     {
-        return view('user.post.posts');
+        return view('layouts.uer_layout_news');
+    }
+    public function getNewsDetail()
+    {
+        return view('layouts.uer_layout_news_detail');
     }
     public function getProfile()
     {
-        return view('user.profile.profile');
+        return view('layouts.uer_layout_profile');
     }
 }

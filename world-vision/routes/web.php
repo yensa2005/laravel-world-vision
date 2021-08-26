@@ -15,7 +15,8 @@ use App\Http\Controllers\PagesController;
 
 /* Route for user */
 Route::get('', [PagesController::class, 'getIndex']);
-Route::get('/post', [PagesController::class, 'getPost']);
+Route::get('/news', [PagesController::class, 'getNews']);
+Route::get('/news/detail', [PagesController::class, 'getNewsDetail']);
 Route::get('/profile', [PagesController::class, 'getProfile']);
 
 Route::get('/dashboard', function () {

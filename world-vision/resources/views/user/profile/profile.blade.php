@@ -1,4 +1,4 @@
-@extends('layouts.uer_layoutprofile')
+@extends('layouts.uer_layout_profile')
 
 @section('title', 'ProfilePage')
 
