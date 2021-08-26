@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\AdminController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\PagesController;
 
@@ -18,6 +19,10 @@ Route::get('', [PagesController::class, 'getIndex']);
 Route::get('/news', [PagesController::class, 'getNews']);
 Route::get('/news/detail', [PagesController::class, 'getNewsDetail']);
 Route::get('/profile', [PagesController::class, 'getProfile']);
+
+/* Route for admin */
+Route::get('/admin', [AdminController::class, 'getIndex']);
+
 
 Route::get('/dashboard', function () {
     return view('dashboard');

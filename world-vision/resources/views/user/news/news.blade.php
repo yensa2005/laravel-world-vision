@@ -7,15 +7,14 @@
         <div class="row">
             <div class="col-sm-12">
                 <div class="text-center">
-                    <h1 class="text-center mt-5">
+                    <h1 class="text-center mt-2">
                         Travel
                     </h1>
-                    <p class="text-secondary fs-15">
+                    <p class="text-secondary fs-15 mb-5">
                         This text can be added in the category Description field in
                         dashboard
                     </p>
                 </div>
-                <h5 class="text-muted font-weight-medium mb-3">World News</h5>
             </div>
         </div>
         <div class="row">
@@ -85,11 +84,6 @@
                         </p>
                     </div>
                 </div>
-            </div>
-        </div>
-        <div class="row mt-5">
-            <div class="col-sm-12">
-                <h5 class="text-muted font-weight-medium mb-3">Popular News</h5>
             </div>
         </div>
         <div class="row mb-4">

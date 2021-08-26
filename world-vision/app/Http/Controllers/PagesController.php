@@ -13,14 +13,14 @@ class PagesController extends Controller
 
     public function getNews()
     {
-        return view('layouts.uer_layout_news');
+        return view('user.news.news');
     }
     public function getNewsDetail()
     {
-        return view('layouts.uer_layout_news_detail');
+        return view('user.news.detail.detail');
     }
     public function getProfile()
     {
-        return view('layouts.uer_layout_profile');
+        return view('user.profile.profile');
     }
 }
