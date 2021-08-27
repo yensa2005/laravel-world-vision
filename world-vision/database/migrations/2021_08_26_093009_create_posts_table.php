@@ -13,6 +13,8 @@ class CreatePostsTable extends Migration
      */
     public function up()
     {
+        Schema::disableForeignKeyConstraints();
+        Schema::dropIfExists('posts');
         Schema::create('posts', function (Blueprint $table) {
             $table->increments('id');
             $table->string('title',150);
@@ -32,6 +34,7 @@ class CreatePostsTable extends Migration
 
             $table->timestamps();
         });
+        Schema::enableForeignKeyConstraints();
     }
 
     /**
