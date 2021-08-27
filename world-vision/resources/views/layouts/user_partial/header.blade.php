@@ -19,33 +19,6 @@
                             <a href="#">Đăng ký</a>
                         </li>
                     </ul>
-                    {{-- <ul class="social-media">
-                        <li>
-                            <a href="#">
-                                <i class="mdi mdi-instagram"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="mdi mdi-facebook"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="mdi mdi-youtube"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="mdi mdi-linkedin"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="mdi mdi-twitter"></i>
-                            </a>
-                        </li>
-                    </ul> --}}
                 </div>
             </div>
             @include('layouts.user_partial.menu')
