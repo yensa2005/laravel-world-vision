@@ -1997,10 +1997,10 @@ pre code {
     font-size: 0.875rem;
     font-weight: 400;
     line-height: 1;
-    color: #495057;
+    color: #000;
     background-color: #ffffff;
     background-clip: padding-box;
-    border: 1px solid #ced4da;
+    border: 1px solid #000;
     border-radius: 2px;
     transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
@@ -2018,15 +2018,15 @@ pre code {
 
 .form-control:-moz-focusring {
     color: transparent;
-    text-shadow: 0 0 0 #495057;
+    text-shadow: 0 0 0 #000;
 }
 
 .form-control:focus {
-    color: #495057;
+    color: #000;
     background-color: #fff;
-    border-color: #80bdff;
+    border-color: #000;
     outline: 0;
-    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+    box-shadow: none;
 }
 
 .form-control::placeholder {
@@ -2080,7 +2080,7 @@ select.form-control:focus::-ms-value {
     margin-bottom: 0;
     font-size: 0.875rem;
     line-height: 1;
-    color: #212529;
+    color: #000;
     background-color: transparent;
     border: solid transparent;
     border-width: 1px 0;

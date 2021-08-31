@@ -17,23 +17,28 @@
         </div>
     </div>
     <div class="col-lg-8">
-        <form action="">
+        <form action="" method="post" enctype="multipart/form-data">
             <div class="form-group">
                 <label for="title">Tiêu đề bài viết</label>
                 <input type="text" class="form-control" id="title">
             </div>
-            <div class="dropdown">
-                <button onclick="myFunction()" class="dropbtn">Dropdown</button>
-                <div id="myDropdown" class="dropdown-content">
-                    <input type="text" placeholder="Search.." id="myInput" onkeyup="filterFunction()">
-                    <a href="#about">About</a>
-                    <a href="#base">Base</a>
-                    <a href="#blog">Blog</a>
-                    <a href="#contact">Contact</a>
-                    <a href="#custom">Custom</a>
-                    <a href="#support">Support</a>
-                    <a href="#tools">Tools</a>
-                </div>
+            <div class="form-group">
+                <label for="category">Danh mục (Bạn có thể chọn tối đa 4 mục phù hợp)</label>
+                <select class="dropdown form-control" id="sel1" name="sellist1">
+                    <option value="" disabled selected>Chọn danh mục</option>
+                    <option>Sports</option>
+                    <option>Art</option>
+                    <option>Buiness</option>
+                    <option>Politics</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="comment">Mô tả</label>
+                <textarea class="form-control" rows="5" id="comment" name="text"></textarea>
+            </div>
+            <div class="form-group">
+                <label for="content">Nội dung bài viết</label>
+                <textarea class="form-control ckeditor" name="editor"></textarea>
             </div>
             <div class="form-group form-check">
                 <label class="form-check-label">
@@ -41,7 +46,6 @@
                     Vision
                 </label>
             </div>
-
             <div class="form-group form-check">
                 <label class="form-check-label">
                     <input class="form-check-input" type="checkbox">Bài viết sẽ được gửi cho admin duyệt, vui lòng kiểm tra
@@ -54,10 +58,12 @@
     <style>
         ul {
             padding-left: 20px;
+            padding-top: 3px;
         }
 
         li {
             font-size: 0.85rem;
+            padding-top: 3px;
         }
 
         .file-upload-btn img {
@@ -66,9 +72,6 @@
             height: 100%;
         }
 
-        .condition {
-            margin-left: 20px;
-        }
 
         .dropbtn {
             background-color: #04AA6D;
@@ -129,26 +132,10 @@
             display: block;
         }
 
-    </style>
-    <script>
-        function myFunction() {
-            document.getElementById("myDropdown").classList.toggle("show");
-        }
+        .dropdown {
+            padding-top: 0;
+            padding-bottom: 0;
 
-        function filterFunction() {
-            var input, filter, ul, li, a, i;
-            input = document.getElementById("myInput");
-            filter = input.value.toUpperCase();
-            div = document.getElementById("myDropdown");
-            a = div.getElementsByTagName("a");
-            for (i = 0; i < a.length; i++) {
-                txtValue = a[i].textContent || a[i].innerText;
-                if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                    a[i].style.display = "";
-                } else {
-                    a[i].style.display = "none";
-                }
-            }
         }
-    </script>
+    </style>
 @endsection
