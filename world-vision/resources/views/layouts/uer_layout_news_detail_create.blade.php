@@ -18,12 +18,9 @@
             <div class="container">
                 <div class="popular-news">
                     <div class="row">
-                        <!-- news detail -->
+                        <!-- create news detail -->
                         @yield('content')
-                        <!-- end of news detail -->
-                        <!--siderbar -->
-                        @include('layouts.user_partial.siderbar-post')
-                        <!-- end of siderbar -->
+                        <!-- end of create news detail -->
                     </div>
                 </div>
                 <!-- footer -->

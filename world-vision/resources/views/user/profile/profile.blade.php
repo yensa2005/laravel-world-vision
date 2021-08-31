@@ -1,6 +1,6 @@
 @extends('layouts.uer_layout_profile')
 
-@section('title', 'ProfilePage')
+@section('title', 'Profile')
 
 @section('content')
     <div class="col-lg-9">
@@ -9,7 +9,41 @@
                 <div class="profile-pic" id="profile_pic"></div>
                 <div class="rela-block profile-name-container">
                     <div class="rela-block user-name" id="user_name">User Name Here</div>
-                    <div class="rela-block user-desc" id="user_description">User Description Here</div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="d-flex justify-content-center">
+                            <div class="d-flex justify-content-center footer-social">
+                                <ul class="social-media">
+                                    <li>
+                                        <a href="#">
+                                            <i class="mdi mdi-instagram"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <i class="mdi mdi-facebook"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <i class="mdi mdi-youtube"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <i class="mdi mdi-linkedin"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <i class="mdi mdi-twitter"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <div class="rela-block profile-card-stats">
                     <div class="floated profile-stat works" id="num_works">6<br></div>
@@ -17,6 +51,13 @@
                     <div class="floated profile-stat following" id="num_following">245<br></div>
                 </div>
             </div>
+        </div>
+        <a href="/profile/edit" style="display: flex;
+            justify-content: center;
+            margin: 20px 0;
+            color: #000;"><i class="bi bi-pencil-square mr-2"></i>Chỉnh sửa trang cá nhân</a>
+        <div class="pb-3">
+            <b>Danh sách bài viết</b>
         </div>
         <div class="row">
             <div class="col-lg-12  mb-5 mb-sm-2">
@@ -114,10 +155,10 @@
         .profile-card {
             width: calc(100% - 40px);
             padding-top: 100px;
-            margin: 70px 0 30px;
+            margin: 70px 0 0;
             width: 100%;
-            background-color: #fff;
-            box-shadow: 0 2px 6px -2px rgba(0, 0, 0, 0.26);
+            border: 1px solid;
+            border-radius: 10px 10px 0 0;
         }
 
         .profile-pic {
@@ -149,15 +190,14 @@
 
         .user-name {
             font-family: "Montserrat";
-            font-size: 24px;
-            letter-spacing: 3px;
-            font-weight: 400;
+            font-size: 18px;
+            font-weight: 500;
             line-height: 30px;
-            margin-bottom: 12px;
+            margin-bottom: 10px;
         }
 
         .user-desc {
-            letter-spacing: 1px;
+
             color: #999;
         }
 
@@ -166,6 +206,7 @@
             padding: 10px 0px;
             text-align: center;
             overflow: hidden;
+            margin: 20px 0px 0px;
         }
 
         .profile-stat {
@@ -215,6 +256,10 @@
             width: 0px;
             margin: 0px;
             border: 0px solid #fff;
+        }
+
+        .social-media {
+            padding-left: 0;
         }
 
     </style>

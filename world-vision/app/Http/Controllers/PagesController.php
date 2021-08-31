@@ -11,14 +11,14 @@ class PagesController extends Controller
         return view('user.home.index');
     }
 
-    public function getNews()
-    {
-        return view('user.news.news');
-    }
-    public function getNewsDetail()
-    {
-        return view('user.news.detail.detail');
-    }
+    // public function getNews()
+    // {
+    //     return view('user.news.news');
+    // }
+    // public function getNewsDetail()
+    // {
+    //     return view('user.news.detail');
+    // }
     public function getProfile()
     {
         return view('user.profile.profile');

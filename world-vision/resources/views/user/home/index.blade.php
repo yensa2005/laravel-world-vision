@@ -24,7 +24,7 @@
                 <p class="fs-15 font-weight-normal">
                     Lorem Ipsum has been the industry's standard dummy text
                 </p>
-                <a href="#" class="font-weight-bold text-dark pt-2">Read Article</a>
+                <a href="/news/detail" class="font-weight-bold text-dark pt-2">Read Article</a>
             </div>
             <div class="col-lg-3 col-sm-6 mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
@@ -37,7 +37,7 @@
                 <p class="fs-15 font-weight-normal">
                     Lorem Ipsum has been the industry's standard dummy text
                 </p>
-                <a href="#" class="font-weight-bold text-dark pt-2">Read Article</a>
+                <a href="/news/detail2" class="font-weight-bold text-dark pt-2">Read Article</a>
             </div>
             <div class="col-lg-3 col-sm-6 mb-5 mb-sm-2">
                 <div class="position-relative image-hover">

@@ -7,3 +7,4 @@
 <!-- Custom js for this page-->
 <script src="./assets/js/demo.js"></script>
 <!-- End custom js for this page-->
+<script src="https://cdn.ckeditor.com/ckeditor5/29.1.0/classic/ckeditor.js"></script>

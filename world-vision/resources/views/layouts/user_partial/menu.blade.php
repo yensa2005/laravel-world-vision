@@ -12,34 +12,34 @@
                 </button>
             </li>
             <li class="nav-item active">
-                <a class="nav-link active" href="index.html">Home</a>
+                <a class="nav-link active" href="/home">Home</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="pages/world.html">World</a>
+                <a class="nav-link" href="/world">World</a>
+            </li>
+            {{-- <li class="nav-item">
+                <a class="nav-link" href="/magazine">Magazine</a>
+            </li> --}}
+            {{-- <li class="nav-item">
+                <a class="nav-link" href="/blog">Blog</a>
+            </li> --}}
+            <li class="nav-item">
+                <a class="nav-link" href="/business">Business</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="pages/author.html">Magazine</a>
+                <a class="nav-link" href="/sports">Sports</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="pages/news-post.html">Blog</a>
+                <a class="nav-link" href="/art">Art</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="pages/business.html">Business</a>
+                <a class="nav-link" href="/politics">Politics</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="pages/sports.html">Sports</a>
+                <a class="nav-link" href="/real-estate">Real estate</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="pages/art.html">Art</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="pages/politics.html">Politics</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="pages/real-estate.html">Real estate</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="pages/travel.html">Travel</a>
+                <a class="nav-link" href="/travel">Travel</a>
             </li>
         </ul>
     </div>
