@@ -1,4 +1,4 @@
-@extends('layouts.uer_layout_profile')
+@extends('layouts.admin_layout')
 
 @section('title', 'Edit Profile')
 

@@ -13,6 +13,6 @@ class PostController extends Controller
 
     public function createDetail()
     {
-        return view('user.news.detail.create.create_detail');
+        return view('admin.post.create.create');
     }
 }

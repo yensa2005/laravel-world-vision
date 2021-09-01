@@ -19,8 +19,4 @@ class PagesController extends Controller
     // {
     //     return view('user.news.detail');
     // }
-    public function getProfile()
-    {
-        return view('user.profile.profile');
-    }
 }
