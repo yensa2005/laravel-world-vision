@@ -38,7 +38,7 @@
             </div>
             <div class="form-group">
                 <label for="content">Nội dung bài viết</label>
-                <textarea class="form-control ckeditor" name="editor"></textarea>
+                <textarea class="form-control" id="editor" name="editor"></textarea>
             </div>
             <div class="form-group form-check">
                 <label class="form-check-label">
@@ -138,4 +138,7 @@
 
         }
     </style>
+    <script>
+        SKEDITOR.replace('editor');
+    </script>
 @endsection

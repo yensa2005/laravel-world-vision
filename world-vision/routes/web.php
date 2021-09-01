@@ -16,7 +16,7 @@ use App\Http\Controllers\PostController;
 | contains the "web" middleware group. Now create something great!
 |
 
-/* Route for user */
+/* Route for menu */
 
 Route::get('/home', [PagesController::class, 'getIndex']);
 
@@ -48,11 +48,11 @@ Route::get('/travel', function () {
     return view('user.news.travel');
 });
 
-// Route::get('/news/detail', [PagesController::class, 'getNewsDetail']);
-
+/* Route for profile */
 Route::get('/profile', [PagesController::class, 'getProfile']);
 Route::get('/profile/edit', [ProfileController::class, 'editProfile']);
 
+/* Route for detail */
 Route::get('/news/detail/create', [PostController::class, 'createDetail']);
 
 

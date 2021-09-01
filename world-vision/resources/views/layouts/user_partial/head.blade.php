@@ -8,10 +8,8 @@
  <link rel="stylesheet" href="./assets/libs/aos/dist/aos.css/aos.css" />
  <link rel="stylesheet" href="./assets/libs/owl.carousel/dist/assets/owl.carousel.min.css" />
  <link rel="stylesheet" href="./assets/libs/owl.carousel/dist/assets/owl.theme.default.min.css" />
-
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-multiselect/0.9.14/js/bootstrap-multiselect.min.js">
 
  <!-- End plugin css for this page -->
  <link rel="shortcut icon" href="{{ asset('favicon.ico') }}" />
