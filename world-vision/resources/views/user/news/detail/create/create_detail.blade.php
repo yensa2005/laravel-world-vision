@@ -23,7 +23,7 @@
                 <input type="text" class="form-control" id="title">
             </div>
             <div class="form-group">
-                <label for="category">Danh mục (Bạn có thể chọn tối đa 4 mục phù hợp)</label>
+                <label for="category">Danh mục</label>
                 <select class="dropdown form-control" id="sel1" name="sellist1">
                     <option value="" disabled selected>Chọn danh mục</option>
                     <option>Sports</option>

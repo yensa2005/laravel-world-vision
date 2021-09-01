@@ -34,7 +34,7 @@
                                 <input type="date" placeholder="Ngày sinh" class="form-control">
                             </div>
                             <div class="form-wrapper">
-                                <input type="number" placeholder="Số điện thoại" class="form-control">
+                                <input type="text" placeholder="Số điện thoại" class="form-control">
                             </div>
                         </div>
                     </div>

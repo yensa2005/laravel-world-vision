@@ -53,6 +53,7 @@ Route::get('/profile', [PagesController::class, 'getProfile']);
 Route::get('/profile/edit', [ProfileController::class, 'editProfile']);
 
 /* Route for detail */
+Route::get('/news/detail', [PostController::class, 'getDetail']);
 Route::get('/news/detail/create', [PostController::class, 'createDetail']);
 
 
