@@ -1,4 +1,4 @@
-@extends('layouts.uer_layout')
+@extends('layouts.uer_layout_home')
 
 @section('title', 'HomePage')
 

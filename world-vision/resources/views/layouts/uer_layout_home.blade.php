@@ -16,16 +16,13 @@
             @include('layouts.user_partial.header')
             <!-- end of header -->
             <div class="container">
-                <div class="popular-news">
-                    <div class="row">
-                        <!-- news detail -->
-                        @yield('content')
-                        <!-- end of news detail -->
-                        <!--siderbar -->
-                        @include('layouts.user_partial.siderbar-post')
-                        <!-- end of siderbar -->
-                    </div>
+                <div class="row">
+                <!-- slide -->
+                @include('layouts.user_partial.slide')
+                <!-- end of slide -->
+                @include('layouts.user_partial.siderbar')
                 </div>
+                @yield('content')
                 <!-- footer -->
                 @include('layouts.user_partial.footer')
                 <!-- partial -->

@@ -1,4 +1,4 @@
-@extends('layouts.uer_layout_news')
+@extends('layouts.uer_layout')
 
 @section('title', 'Real Estate')
 

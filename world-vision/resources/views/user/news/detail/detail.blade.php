@@ -1,4 +1,4 @@
-@extends('layouts.uer_layout_news_detail')
+@extends('layouts.uer_layout')
 
 @section('title', 'NewsDetailPage')
 

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 
 <head>
     <title>@yield('title')</title>
@@ -16,13 +16,16 @@
             @include('layouts.user_partial.header')
             <!-- end of header -->
             <div class="container">
-                <div class="row">
-                <!-- slide -->
-                @include('layouts.user_partial.slide')
-                <!-- end of slide -->
-                @include('layouts.user_partial.siderbar')
+                <div class="popular-news">
+                    <div class="row">
+                        <!-- post -->
+                        @yield('content')
+                        <!-- end of post -->
+                        <!--siderbar -->
+                        @include('layouts.user_partial.siderbar-post')
+                        <!-- end of siderbar -->
+                    </div>
                 </div>
-                @yield('content')
                 <!-- footer -->
                 @include('layouts.user_partial.footer')
                 <!-- partial -->
