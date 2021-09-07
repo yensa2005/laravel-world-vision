@@ -1,5 +1,5 @@
 <header id="header">
-    <div class="container">
+    <div class="container-fluid" style="padding: 0 50px">
         <!-- navbar -->
         <nav class="navbar navbar-expand-lg navbar-light">
             <div class="d-flex justify-content-between align-items-center navbar-top">

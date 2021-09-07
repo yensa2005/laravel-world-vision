@@ -10,4 +10,12 @@ class AdminController extends Controller
     {
         return view('admin.profile.profile');
     }
+    public function getAuthor()
+    {
+        return view('admin.author.author');
+    }
+    public function getPost()
+    {
+        return view('admin.post.post');
+    }
 }

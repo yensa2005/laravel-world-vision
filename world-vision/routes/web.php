@@ -39,13 +39,17 @@ Route::get('/travel', function () {
     return view('user.news.travel');
 });
 
-/* Route for profile */
-Route::get('/profile', [AdminController::class, 'getProfile']);
-Route::get('/profile/edit', [ProfileController::class, 'editProfile']);
+/* Route for admin */
+Route::group(['prefix' => 'admin'], function () {
+    Route::get('profile', [AdminController::class, 'getProfile']);
+    Route::get('profile/edit', [ProfileController::class, 'editProfile']);
+    Route::get('post', [AdminController::class, 'getPost']);
+    Route::get('post/create', [PostController::class, 'createPost']);
+    Route::get('author/list', [AdminController::class, 'getAuthor']);
+});
 
 /* Route for detail */
 Route::get('/news/detail', [PostController::class, 'getDetail']);
-Route::get('/news/detail/create', [PostController::class, 'createDetail']);
 
 
 /* Route for admin */

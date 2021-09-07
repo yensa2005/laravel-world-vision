@@ -1,22 +1,29 @@
-@extends('layouts.uer_layout_news_detail_create')
+@extends('layouts.admin_layout')
 
-@section('title', 'Create Detail')
+@section('title', 'Create Post')
 
 @section('content')
-    <div class="col-lg-4">
-        <p>Ảnh cover bài viết</p>
-        <div class="file-upload-btn">
+    <div class="col-lg-10">
+        <div class="title-info">
+            <p>Ảnh cover bài viết</p>
+            <i class="bi bi-info-circle-fill pl-2" data-toggle="tooltip" data-html="true" data-placement="left"
+                aria-describedby="passHelp" title="
+                    For better design, please use:
+                    + Minimum width image size 1200
+                    + The best size is 900x400 ratio"></i>
+        </div>
+        <div class="file-upload-btn pb-3">
             <img src="https://www.bgcdc.org/wordpress/wp-content/uploads/2020/08/900x400.png" alt="">
         </div>
-        <div class="condition">
-            <b>For better design, please use:</b>
-            <ul>
-                <li>Minimum width image size 1200</li>
-                <li>The best size is 900x400 ratio</li>
-            </ul>
-        </div>
-    </div>
-    <div class="col-lg-8">
+        {{-- <div class="condition">
+            <div>
+                <b>For better design, please use:</b>
+                <ul>
+                    <li>Minimum width image size 1200</li>
+                    <li>The best size is 900x400 ratio</li>
+                </ul>
+            </div>
+        </div> --}}
         <form action="" method="post" enctype="multipart/form-data">
             <div class="form-group">
                 <label for="title">Tiêu đề bài viết</label>
@@ -68,10 +75,20 @@
 
         .file-upload-btn img {
             margin: 10px 0;
-            width: 350px;
+            width: 983px;
             height: 100%;
         }
 
+        .condition {
+            display: flex;
+            justify-content: flex-end;
+            padding: 10px;
+        }
+
+        .title-info {
+            display: flex;
+            align-items: baseline;
+        }
 
         .dropbtn {
             background-color: #04AA6D;
@@ -137,8 +154,12 @@
             padding-bottom: 0;
 
         }
+
     </style>
     <script>
         SKEDITOR.replace('editor');
+        $(document).ready(function() {
+            $('[data-toggle="tooltip"]').tooltip();
+        });
     </script>
 @endsection

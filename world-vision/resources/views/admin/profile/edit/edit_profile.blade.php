@@ -3,7 +3,7 @@
 @section('title', 'Edit Profile')
 
 @section('content')
-    <div class="col-lg-9">
+    <div class="col-lg-10">
         <div class="rela-block">
             <div class="rela-block profile-card">
                 <div class="profile-pic" id="profile_pic"></div>

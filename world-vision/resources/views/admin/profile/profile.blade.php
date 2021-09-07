@@ -1,9 +1,9 @@
-@extends('layouts.uer_layout_profile')
+@extends('layouts.admin_layout')
 
 @section('title', 'Profile')
 
 @section('content')
-    <div class="col-lg-9">
+    <div class="col-lg-10">
         <div class="rela-block">
             <div class="rela-block profile-card">
                 <div class="profile-pic" id="profile_pic"></div>
@@ -52,7 +52,7 @@
                 </div>
             </div>
         </div>
-        <a href="/profile/edit" style="display: flex;
+        <a href="/admin/profile/edit" style="display: flex;
             justify-content: center;
             margin: 20px 0;
             color: #000;"><i class="bi bi-pencil-square mr-2"></i>Chỉnh sửa trang cá nhân</a>
