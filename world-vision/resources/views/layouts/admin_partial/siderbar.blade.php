@@ -8,7 +8,7 @@
         <div class="menu-sidebar mr-3">
             <div class="col-sm-12">
                 <div class="border-bottom pt-4 pb-1 pl-1">
-                    <a href="" class="title">
+                    <a href="/admin" class="title">
                         <h5 class="font-weight-400 mt-0 mb-0">
                             Dashboard
                         </h5>
