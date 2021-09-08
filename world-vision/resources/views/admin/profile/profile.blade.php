@@ -52,7 +52,7 @@
                 </div>
             </div>
         </div>
-        <a href="/admin/profile/edit" style="display: flex;
+        <a href="profile/edit" style="display: flex;
             justify-content: center;
             margin: 20px 0;
             color: #000;"><i class="bi bi-pencil-square mr-2"></i>Chỉnh sửa trang cá nhân</a>

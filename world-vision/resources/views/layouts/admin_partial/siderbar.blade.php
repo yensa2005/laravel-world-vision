@@ -35,7 +35,7 @@
             </div>
             <div class="col-sm-12">
                 <div class="border-bottom pt-4 pb-1 pl-1">
-                    <a href="" class="title">
+                    <a href="/admin/category" class="title">
                         <h5 class="font-weight-400 mt-0 mb-0">
                             Chuyên mục
                         </h5>
@@ -44,7 +44,7 @@
             </div>
             <div class="col-sm-12">
                 <div class="border-bottom pt-4 pb-1 pl-1">
-                    <a href="" class="title">
+                    <a href="/admin/tag" class="title">
                         <h5 class="font-weight-400 mt-0 mb-0">
                             Tag
                         </h5>

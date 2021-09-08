@@ -18,4 +18,12 @@ class AdminController extends Controller
     {
         return view('admin.post.post');
     }
+    public function getCategory()
+    {
+        return view('admin.category.category');
+    }
+    public function getTag()
+    {
+        return view('admin.tag.tag');
+    }
 }

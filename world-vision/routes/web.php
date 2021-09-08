@@ -5,6 +5,8 @@ use App\Http\Controllers\PagesController;
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\PostController;
 use App\Http\Controllers\AdminController;
+use App\Http\Controllers\CategoryController;;
+use App\Http\Controllers\TagController;;
 
 
 /* Route for menu */
@@ -46,6 +48,10 @@ Route::group(['prefix' => 'admin'], function () {
     Route::get('post', [AdminController::class, 'getPost']);
     Route::get('post/create', [PostController::class, 'createPost']);
     Route::get('author/list', [AdminController::class, 'getAuthor']);
+    Route::get('category', [AdminController::class, 'getCategory']);
+    Route::get('category/create', [CategoryController::class, 'createCategory']);
+    Route::get('tag', [AdminController::class, 'getTag']);
+    Route::get('tag/create', [TagController::class, 'createTag']);
 });
 
 /* Route for detail */

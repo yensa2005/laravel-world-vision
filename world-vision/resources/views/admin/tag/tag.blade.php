@@ -1,6 +1,6 @@
 @extends('layouts.admin_layout')
 
-@section('title', 'Post')
+@section('title', 'Tag')
 
 @section('content')
     <div class="col-lg-10">
@@ -16,7 +16,7 @@
                                 <div class="btn_group">
                                     <input type="text" class="form-control" placeholder="Tìm kiếm">
                                     <button class="btn btn-default" title="Làm mới"><i class="fa fa-sync-alt"></i></button>
-                                    <button class="btn btn-default" title="Thêm"><a href="post/create"><i class="bi bi-plus-lg"></i></a></button>
+                                    <button class="btn btn-default" title="Thêm"><a href="tag/create"><i class="bi bi-plus-lg"></i></a></button>
                                     {{-- <button class="btn btn-default" title="Pdf"><i class="fa fa-file-pdf"></i></button>
                                     <button class="btn btn-default" title="Excel"><i class="fas fa-file-excel"></i></button> --}}
                                 </div>
@@ -30,14 +30,9 @@
                                     <th> <label class="customcheckbox m-b-20"> <input type="checkbox" id="mainCheckbox">
                                             <span class="checkmark"></span> </label> </th>
                                     <th>#</th>
-                                    <th>Tiêu đề</th>
-                                    <th>Nổi bật</th>
-                                    <th>Trạng thái</th>
-                                    <th>Tags</th>
-                                    <th>Chuyên mục</th>
-                                    <th>Views</th>
-                                    <th>Ngày đăng</th>
-                                    <th>Ảnh chính</th>
+                                    <th>Tên</th>
+                                    <th>Đường dẫn</th>
+                                    <th>Số bài viết</th>
                                     <th>Hành động</th>
                                 </tr>
                             </thead>
@@ -46,14 +41,9 @@
                                     <th> <label class="customcheckbox"> <input type="checkbox" class="listCheckbox"> <span
                                                 class="checkmark"></span> </label> </th>
                                     <td>1</td>
-                                    <td>Thử màn hình cảm ứng trên Windows 11</td>
-                                    <td class="icon-on"><i class="bi bi-check-square-fill pr-2"></i></td>
-                                    <td class="icon-off"><i class="bi bi-x-square-fill pr-2"></i></td>
-                                    <td>đánh giá, windows 11</td>
-                                    <td>Ứng dụng</td>
+                                    <td>đánh giá</td>
+                                    <td>danh-gia</td>
                                     <td>34</td>
-                                    <td>20:49:51 14/05/2021</td>
-                                    <td><img src="assets/images/admin/post/win11.jpg" class="img-fluid"/></td>
                                     <td>
                                         <ul class="action-list">
                                             <li><a href="#" data-tip="edit"><i class="fa fa-edit"></i></a></li>
@@ -65,15 +55,9 @@
                                     <th> <label class="customcheckbox"> <input type="checkbox" class="listCheckbox"> <span
                                                 class="checkmark"></span> </label> </th>
                                     <td>2</td>
-                                    <td>Hi hữu: Một ứng dụng của Google có thể khiến nhiều người mất việc</td>
-                                    <td class="icon-on"><i class="bi bi-check-square-fill pr-2"></i></td>
-                                    <td class="icon-on"><i class="bi bi-check-square-fill pr-2"></i></td>
-                                    <td>google</td>
-                                    <td>Ứng dụng</td>
-                                    <td>465875</td>
-                                    <td>20:49:51 14/05/2021</td>
-                                    <td><img src="assets/images/admin/post/google.jpg" class="img-fluid"/></td>
-                                    <td>
+                                    <td>windown 11</td>
+                                    <td>windown-11</td>
+                                    <td>834</td><td>
                                         <ul class="action-list">
                                             <li><a href="#" data-tip="edit"><i class="fa fa-edit"></i></a></li>
                                             <li><a href="#" data-tip="delete"><i class="fa fa-trash"></i></a></li>
@@ -84,15 +68,9 @@
                                     <th> <label class="customcheckbox"> <input type="checkbox" class="listCheckbox"> <span
                                                 class="checkmark"></span> </label> </th>
                                     <td>3</td>
-                                    <td>Telegram vừa ra mắt một loạt tính năng mới</td>
-                                    <td class="icon-off"><i class="bi bi-x-square-fill pr-2"></i></td>
-                                    <td class="icon-off"><i class="bi bi-x-square-fill pr-2"></i></td>
-                                    <td>giới thiệu, telegram</td>
-                                    <td>Ứng dụng</td>
-                                    <td>834</td>
-                                    <td>20:49:51 14/05/2021</td>
-                                    <td><img src="assets/images/admin/post/win11.jpg" class="img-fluid"/></td>
-                                    <td>
+                                    <td>google</td>
+                                    <td>google</td>
+                                    <td>334</td><td>
                                         <ul class="action-list">
                                             <li><a href="#" data-tip="edit"><i class="fa fa-edit"></i></a></li>
                                             <li><a href="#" data-tip="delete"><i class="fa fa-trash"></i></a></li>
@@ -103,15 +81,9 @@
                                     <th> <label class="customcheckbox"> <input type="checkbox" class="listCheckbox"> <span
                                                 class="checkmark"></span> </label> </th>
                                     <td>4</td>
-                                    <td>Google Maps buộc người dùng phải chia sẻ dữ liệu di chuyển để có thể dùng tính năng dẫn đường trực tiếp</td>
-                                    <td class="icon-on"><i class="bi bi-check-square-fill pr-2"></i></td>
-                                    <td class="icon-off"><i class="bi bi-x-square-fill pr-2"></i></td>
-                                    <td>map</td>
-                                    <td>Ứng dụng</td>
-                                    <td>35648</td>
-                                    <td>20:49:51 14/05/2021</td>
-                                    <td><img src="assets/images/admin/post/map.jpg" class="img-fluid"/></td>
-                                    <td>
+                                    <td>giới thiệu</td>
+                                    <td>gioi-thieu</td>
+                                    <td>3544</td><td>
                                         <ul class="action-list">
                                             <li><a href="#" data-tip="edit"><i class="fa fa-edit"></i></a></li>
                                             <li><a href="#" data-tip="delete"><i class="fa fa-trash"></i></a></li>
@@ -122,15 +94,9 @@
                                     <th> <label class="customcheckbox"> <input type="checkbox" class="listCheckbox"> <span
                                                 class="checkmark"></span> </label> </th>
                                     <td>5</td>
-                                    <td>Facebook vinh danh 9 hacker Việt Nam vì góp phần thông báo "lỗ hổng" ứng dụng</td>
-                                    <td class="icon-on"><i class="bi bi-check-square-fill pr-2"></i></td>
-                                    <td class="icon-off"><i class="bi bi-x-square-fill pr-2"></i></td>
-                                    <td>facebook</td>
-                                    <td>Ứng dụng</td>
-                                    <td>34</td>
-                                    <td>20:49:51 14/05/2021</td>
-                                    <td><img src="assets/images/admin/post/facebook.jpg" class="img-fluid"/></td>
-                                    <td>
+                                    <td>telegram</td>
+                                    <td>telegram</td>
+                                    <td>3234</td><td>
                                         <ul class="action-list">
                                             <li><a href="#" data-tip="edit"><i class="fa fa-edit"></i></a></li>
                                             <li><a href="#" data-tip="delete"><i class="fa fa-trash"></i></a></li>
