@@ -15,8 +15,10 @@
                             <div class="col-sm-9 col-xs-12 text-right">
                                 <div class="btn_group">
                                     <input type="text" class="form-control" placeholder="Tìm kiếm">
-                                    <button class="btn btn-default" title="Làm mới"><i class="fa fa-sync-alt"></i></button>
-                                    <button class="btn btn-default" title="Thêm"><a href="post/create"><i class="bi bi-plus-lg"></i></a></button>
+                                    <button class="btn btn-default" title="Làm mới"><a href="/admin/post"><i
+                                                class="fa fa-sync-alt"></i></a></button>
+                                    <button class="btn btn-default" title="Thêm"><a href="post/create"><i
+                                                class="bi bi-plus-lg"></i></a></button>
                                     {{-- <button class="btn btn-default" title="Pdf"><i class="fa fa-file-pdf"></i></button>
                                     <button class="btn btn-default" title="Excel"><i class="fas fa-file-excel"></i></button> --}}
                                 </div>
@@ -53,7 +55,7 @@
                                     <td>Ứng dụng</td>
                                     <td>34</td>
                                     <td>20:49:51 14/05/2021</td>
-                                    <td><img src="assets/images/admin/post/win11.jpg" class="img-fluid"/></td>
+                                    <td><img src="assets/images/admin/post/win11.jpg" class="img-fluid" /></td>
                                     <td>
                                         <ul class="action-list">
                                             <li><a href="#" data-tip="edit"><i class="fa fa-edit"></i></a></li>
@@ -72,7 +74,7 @@
                                     <td>Ứng dụng</td>
                                     <td>465875</td>
                                     <td>20:49:51 14/05/2021</td>
-                                    <td><img src="assets/images/admin/post/google.jpg" class="img-fluid"/></td>
+                                    <td><img src="assets/images/admin/post/google.jpg" class="img-fluid" /></td>
                                     <td>
                                         <ul class="action-list">
                                             <li><a href="#" data-tip="edit"><i class="fa fa-edit"></i></a></li>
@@ -91,7 +93,7 @@
                                     <td>Ứng dụng</td>
                                     <td>834</td>
                                     <td>20:49:51 14/05/2021</td>
-                                    <td><img src="assets/images/admin/post/win11.jpg" class="img-fluid"/></td>
+                                    <td><img src="assets/images/admin/post/win11.jpg" class="img-fluid" /></td>
                                     <td>
                                         <ul class="action-list">
                                             <li><a href="#" data-tip="edit"><i class="fa fa-edit"></i></a></li>
@@ -103,14 +105,15 @@
                                     <th> <label class="customcheckbox"> <input type="checkbox" class="listCheckbox"> <span
                                                 class="checkmark"></span> </label> </th>
                                     <td>4</td>
-                                    <td>Google Maps buộc người dùng phải chia sẻ dữ liệu di chuyển để có thể dùng tính năng dẫn đường trực tiếp</td>
+                                    <td>Google Maps buộc người dùng phải chia sẻ dữ liệu di chuyển để có thể dùng tính năng
+                                        dẫn đường trực tiếp</td>
                                     <td class="icon-on"><i class="bi bi-check-square-fill pr-2"></i></td>
                                     <td class="icon-off"><i class="bi bi-x-square-fill pr-2"></i></td>
                                     <td>map</td>
                                     <td>Ứng dụng</td>
                                     <td>35648</td>
                                     <td>20:49:51 14/05/2021</td>
-                                    <td><img src="assets/images/admin/post/map.jpg" class="img-fluid"/></td>
+                                    <td><img src="assets/images/admin/post/map.jpg" class="img-fluid" /></td>
                                     <td>
                                         <ul class="action-list">
                                             <li><a href="#" data-tip="edit"><i class="fa fa-edit"></i></a></li>
@@ -129,7 +132,7 @@
                                     <td>Ứng dụng</td>
                                     <td>34</td>
                                     <td>20:49:51 14/05/2021</td>
-                                    <td><img src="assets/images/admin/post/facebook.jpg" class="img-fluid"/></td>
+                                    <td><img src="assets/images/admin/post/facebook.jpg" class="img-fluid" /></td>
                                     <td>
                                         <ul class="action-list">
                                             <li><a href="#" data-tip="edit"><i class="fa fa-edit"></i></a></li>
@@ -162,29 +165,33 @@
         </div>
     </div>
     <style>
-        .pagination{
+        .pagination {
             display: flex;
             justify-content: flex-end;
             padding: 0;
 
         }
+
         .pagination>li>a,
         .pagination>li>span {
             font-weight: 100;
             margin: 0 5px;
             color: #000;
         }
+
         .pagination>li>a:hover,
         .pagination>li>span:hover {
             margin: 0 5px;
             color: #007bff;
         }
 
-        .fa-trash, .icon-off {
+        .fa-trash,
+        .icon-off {
             color: #B61919;
         }
 
-        .fa-edit, .icon-on {
+        .fa-edit,
+        .icon-on {
             color: #66DE93;
         }
 

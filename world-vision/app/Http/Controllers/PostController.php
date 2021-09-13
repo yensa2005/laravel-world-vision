@@ -10,6 +10,10 @@ class PostController extends Controller
     {
         return view('user.news.detail.detail');
     }
+    public function getDetail2()
+    {
+        return view('user.news.detail.detail-2');
+    }
 
     public function createPost()
     {

@@ -15,7 +15,7 @@
                             <div class="col-sm-9 col-xs-12 text-right">
                                 <div class="btn_group">
                                     <input type="text" class="form-control" placeholder="Tìm kiếm">
-                                    <button class="btn btn-default" title="Làm mới"><i class="fa fa-sync-alt"></i></button>
+                                    <button class="btn btn-default" title="Làm mới"><a href="/admin/author/list"><i class="fa fa-sync-alt"></i></a></button>
                                     <button class="btn btn-default" title="Pdf"><i class="fa fa-file-pdf"></i></button>
                                     <button class="btn btn-default" title="Excel"><i class="fas fa-file-excel"></i></button>
                                 </div>

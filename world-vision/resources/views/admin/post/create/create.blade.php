@@ -8,9 +8,9 @@
             <p>Ảnh cover bài viết</p>
             <i class="bi bi-info-circle-fill pl-2" data-toggle="tooltip" data-html="true" data-placement="left"
                 aria-describedby="passHelp" title="
-                    For better design, please use:
-                    + Minimum width image size 1200
-                    + The best size is 900x400 ratio"></i>
+                            For better design, please use:
+                            + Minimum width image size 1200
+                            + The best size is 900x400 ratio"></i>
         </div>
         <div class="file-upload-btn pb-3">
             <img src="https://www.bgcdc.org/wordpress/wp-content/uploads/2020/08/900x400.png" alt="">
@@ -45,7 +45,8 @@
             </div>
             <div class="form-group">
                 <label for="content">Nội dung bài viết</label>
-                <textarea class="form-control" id="editor" name="editor"></textarea>
+                {{-- <textarea class="form-control" id="editor" name="editor"></textarea> --}}
+                <div id="editor"></div>
             </div>
             <div class="form-group form-check">
                 <label class="form-check-label">
@@ -157,9 +158,14 @@
 
     </style>
     <script>
-        SKEDITOR.replace('editor');
-        $(document).ready(function() {
-            $('[data-toggle="tooltip"]').tooltip();
-        });
+        // SKEDITOR.replace('editor');
+        // $(document).ready(function() {
+        //     $('[data-toggle="tooltip"]').tooltip();
+        // });
+        ClassicEditor
+            .create(document.querySelector('#editor'))
+            .catch(error => {
+                console.error(error)
+            });
     </script>
 @endsection

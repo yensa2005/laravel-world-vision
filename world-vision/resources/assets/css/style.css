@@ -10647,7 +10647,6 @@ h6,
 
 .social-media li a {
     padding: 2px 4px;
-    background-color: #000;
     border-radius: 4px;
     color: #ffffff;
 }
@@ -11008,7 +11007,7 @@ h6,
 }
 
 .news-post-wrapper {
-    width: 915px;
+    /* width: 915px; */
     margin: 0 auto;
     margin-top: 50px;
 }

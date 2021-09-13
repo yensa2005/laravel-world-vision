@@ -16,19 +16,21 @@
             @include('layouts.admin_partial.header')
             <!-- end of header -->
             <div class="container-fluid" style="padding: 40px 50px">
-                    <div class="row">
-                        <!--siderbar -->
-                        @include('layouts.admin_partial.siderbar')
-                        <!-- end of siderbar -->
-                        <!-- news -->
-                        @yield('content')
-                        <!-- end of news -->
+                <div class="row">
+                    <!--siderbar -->
+                    @include('layouts.admin_partial.siderbar')
+                    <!-- end of siderbar -->
+                    <!-- news -->
+                    @yield('content')
+                    <!-- end of news -->
 
-                    </div>
+                </div>
             </div>
             <!-- footer -->
-            @include('layouts.admin_partial.footer')
-            <!-- partial -->
+            <div class="container-fluid" style="padding: 0px 50px">
+                @include('layouts.admin_partial.footer')
+                <!-- partial -->
+            </div>
         </div>
     </div>
     @include('layouts.admin_partial.importijs')

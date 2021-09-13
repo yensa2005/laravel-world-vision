@@ -6,6 +6,7 @@ use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\PostController;
 use App\Http\Controllers\AdminController;
 use App\Http\Controllers\CategoryController;;
+
 use App\Http\Controllers\TagController;;
 
 
@@ -16,12 +17,6 @@ Route::get('/home', [PagesController::class, 'getIndex']);
 Route::get('/mobile', function () {
     return view('user.news.mobile');
 });
-// Route::get('/magazine', function () {
-//     return view('user.news.magazine');
-// });
-// Route::get('/blog', function () {
-//     return view('user.news.blog');
-// });
 Route::get('/concept', function () {
     return view('user.news.concept');
 });
@@ -33,6 +28,14 @@ Route::get('/thu-thuat', function () {
 });
 Route::get('/cong-nghe-vui', function () {
     return view('user.news.cong-nghe-vui');
+});
+Route::get('/contact', function () {
+    return view('user.news.contact ');
+});
+Route::get('/about-us', function () {
+    return view('user.news.about-us');
+});Route::get('/faq', function () {
+    return view('user.news.faq');
 });
 
 /* Route for admin */
@@ -50,6 +53,7 @@ Route::group(['prefix' => 'admin'], function () {
 
 /* Route for detail */
 Route::get('/news/detail', [PostController::class, 'getDetail']);
+Route::get('/news/detail-2', [PostController::class, 'getDetail2']);
 
 
 /* Route for admin */

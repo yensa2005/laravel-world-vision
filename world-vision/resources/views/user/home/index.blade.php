@@ -8,7 +8,7 @@
         <div class="row">
             <div class="col-sm-12">
                 <div class="d-flex position-relative  float-left">
-                    <h3 class="section-title">World News</h3>
+                    <h3 class="section-title">Tiêu điểm tuần</h3>
                 </div>
             </div>
         </div>
@@ -16,54 +16,58 @@
             <div class="col-lg-3 col-sm-6 grid-margin mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
                     <img src="assets/images/dashboard/travel.jpg" class="img-fluid" alt="world-news" />
-                    <span class="thumb-title">TRAVEL</span>
+                    <span class="thumb-title">ỨNG DỤNG</span>
                 </div>
                 <h5 class="font-weight-bold mt-3">
-                    Refugees flood Turkey's border with Greece
+                    Apple cảnh báo thói quen làm camera iPhone xuống cấp
                 </h5>
                 <p class="fs-15 font-weight-normal">
-                    Lorem Ipsum has been the industry's standard dummy text
+                    Nếu bạn thường xuyên làm hành động này, hãy thay đổi ngay nếu không muốn iPhone chụp ảnh ngày càng xấu
+                    đi.
                 </p>
-                <a href="/news/detail" class="font-weight-bold text-dark pt-2">Read Article</a>
+                <a href="/news/detail" class="font-weight-bold text-dark pt-2">Đọc thêm</a>
             </div>
             <div class="col-lg-3 col-sm-6 mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
                     <img src="assets/images/dashboard/news.jpg" class="img-fluid" alt="world-news" />
-                    <span class="thumb-title">NEWS</span>
+                    <span class="thumb-title">MOBILE</span>
                 </div>
                 <h5 class="font-weight-bold mt-3">
-                    South Korea’s Moon Jae-in sworn in vowing address
+                    iPhone 13 rò rỉ concept toàn bộ 6 màu sắc: màu hồng...
                 </h5>
                 <p class="fs-15 font-weight-normal">
-                    Lorem Ipsum has been the industry's standard dummy text
+                    Bạn đang chờ đợi iPhone 13 phiên bản màu hồng hay màu cam?Apple đã chính thức đăng tải thư mời sự
+                    kiện...
                 </p>
-                <a href="/news/detail2" class="font-weight-bold text-dark pt-2">Read Article</a>
+                <a href="/news/detail2" class="font-weight-bold text-dark pt-2">Đọc thêm</a>
             </div>
             <div class="col-lg-3 col-sm-6 mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
                     <img src="assets/images/dashboard/art.jpg" class="img-fluid" alt="world-news" />
-                    <span class="thumb-title">ART</span>
+                    <span class="thumb-title">CONCEPT</span>
                 </div>
                 <h5 class="font-weight-bold mt-3">
-                    These puppies are training to assist in avalanche rescue
+                    Hé lộ concept iPhone 13 màu cam đồng cực kỳ hút mắt...
                 </h5>
                 <p class="fs-15 font-weight-normal">
-                    Lorem Ipsum has been the industry's standard dummy text
+                    Cư dân mạng đang xôn xao về một phiên bản màu cam đồng mới của iPhone 13 series, nhìn cái là muốn "chốt
+                    đơn".
                 </p>
-                <a href="#" class="font-weight-bold text-dark pt-2">Read Article</a>
+                <a href="#" class="font-weight-bold text-dark pt-2">Đọc thêm</a>
             </div>
             <div class="col-lg-3 col-sm-6 mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
                     <img src="assets/images/dashboard/business.jpg" class="img-fluid" alt="world-news" />
-                    <span class="thumb-title">BUSINESS</span>
+                    <span class="thumb-title">CÔNG NGHỆ VUI</span>
                 </div>
                 <h5 class="font-weight-bold mt-3">
-                    'Love Is Blind' couple opens up about their first year
+                    Đăng ảnh sexy khoe body "căng đét", Jennie...
                 </h5>
                 <p class="fs-15 font-weight-normal">
-                    Lorem Ipsum has been the industry's standard dummy text
+                    Tuy có số người theo dõi trên Instagram thấp hơn Lisa nhưng lượng tương tác của Jennie lại cực kì đáng
+                    gờm.
                 </p>
-                <a href="#" class="font-weight-bold text-dark pt-2">Read Article</a>
+                <a href="#" class="font-weight-bold text-dark pt-2">Đọc thêm</a>
             </div>
         </div>
     </div>
@@ -71,7 +75,7 @@
         <div class="row">
             <div class="col-lg-3">
                 <div class="d-flex position-relative float-left">
-                    <h3 class="section-title">Popular News</h3>
+                    <h3 class="section-title">MỚI NHẤT</h3>
                 </div>
             </div>
         </div>
@@ -79,67 +83,70 @@
             <div class="col-lg-6  mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
                     <img src="assets/images/dashboard/glob.jpg" class="img-fluid" alt="world-news" />
-                    <span class="thumb-title">NEWS</span>
+                    <span class="thumb-title">MOBILE</span>
                 </div>
                 <h1 class="font-weight-600 mt-3">
-                    Melania Trump speaks about courage at State Department
+                    Thêm 1 lý do để người dùng iPhone muốn chuyển qua dùng Samsung
                 </h1>
                 <p class="fs-15 font-weight-normal">
-                    Lorem Ipsum has been the industry's standard dummy text ever
-                    since the 1500s, when an unknown printer took a galley of type
-                    and
+                    Tính năng đồng bộ hoá lịch sử tin nhắn WhatsApp từ iPhone sang Android hiện chỉ hỗ trợ cho các máy
+                    Samsung.
                 </p>
             </div>
             <div class="col-lg-6  mb-5 mb-sm-2">
                 <div class="row">
                     <div class="col-sm-6  mb-5 mb-sm-2">
                         <div class="position-relative image-hover">
-                            <img src="assets/images/dashboard/star-magazine-5.jpg" class="img-fluid" alt="world-news" />
-                            <span class="thumb-title">POLITICS</span>
+                            <img src="assets/images/dashboard/star-magazine-5.jpg" class="img-fluid"
+                                alt="world-news" />
+                            <span class="thumb-title">CONCEPT</span>
                         </div>
                         <h5 class="font-weight-600 mt-3">
-                            A look at California's eerie plane graveyards
+                            Cận kề ngày ra mắt, ngoài màu hồng iPhone 13 còn rò rỉ...
                         </h5>
                         <p class="fs-15 font-weight-normal">
-                            Lorem Ipsum has been the industry's standard dummy text
+                            Theo các nguồn tin rò rỉ, iPhone 13 năm nay sẽ có thêm 2 phiên bản màu sắc mới là hồng và cam.
                         </p>
                     </div>
                     <div class="col-sm-6  mb-5 mb-sm-2">
                         <div class="position-relative image-hover">
-                            <img src="assets/images/dashboard/star-magazine-6.jpg" class="img-fluid" alt="world-news" />
-                            <span class="thumb-title">TRAVEL</span>
+                            <img src="assets/images/dashboard/star-magazine-6.jpg" class="img-fluid"
+                                alt="world-news" />
+                            <span class="thumb-title">THỦ THUẬT</span>
                         </div>
                         <h5 class="font-weight-600 mt-3">
-                            The world's most beautiful racecourses
+                            Hướng dẫn in sao kê online: Nhanh chóng, dễ làm mà...
                         </h5>
                         <p class="fs-15 font-weight-normal">
-                            Lorem Ipsum has been the industry's standard dummy text
+                            Có thể bạn chưa biết, chủ tài khoản có thể trực tiếp sao kê online các giao dịch ngân hàng.
                         </p>
                     </div>
                 </div>
                 <div class="row mt-3">
                     <div class="col-sm-6  mb-5 mb-sm-2">
                         <div class="position-relative image-hover">
-                            <img src="assets/images/dashboard/star-magazine-7.jpg" class="img-fluid" alt="world-news" />
-                            <span class="thumb-title">POLITICS</span>
+                            <img src="assets/images/dashboard/star-magazine-7.jpg" class="img-fluid"
+                                alt="world-news" />
+                            <span class="thumb-title">CÔNG NGHỆ VUI</span>
                         </div>
                         <h5 class="font-weight-600 mt-3">
-                            Japan cancels cherry blossom festivals over virus fears
+                            Ariana Grande bị "bà trùm trang điểm 24 tuổi" vượt...
                         </h5>
                         <p class="fs-15 font-weight-normal">
-                            Lorem Ipsum has been the industry's standard dummy text
+                            Sau khi người này tung video xác nhận mang thai đã tạo nên sự "bùng nổ" trên MXH, số follower...
                         </p>
                     </div>
                     <div class="col-sm-6">
                         <div class="position-relative image-hover">
-                            <img src="assets/images/dashboard/star-magazine-8.jpg" class="img-fluid" alt="world-news" />
-                            <span class="thumb-title">TRAVEL</span>
+                            <img src="assets/images/dashboard/star-magazine-8.jpg" class="img-fluid"
+                                alt="world-news" />
+                            <span class="thumb-title">ỨNG DỤNG</span>
                         </div>
                         <h5 class="font-weight-600 mt-3">
-                            Classic cars reborn as electric vehicles
+                            Những thiết lập đơn giản giúp chụp ảnh đẹp hơn...
                         </h5>
                         <p class="fs-15 font-weight-normal">
-                            Lorem Ipsum has been the industry's standard dummy text
+                            Bạn sẽ chụp ảnh đẹp hơn trên iPhone nếu thực hiện 08 cài đặt máy ảnh trong bài viết này.
                         </p>
                     </div>
                 </div>
@@ -150,7 +157,7 @@
         <div class="row">
             <div class="col-lg-3">
                 <div class="d-flex position-relative float-left">
-                    <h3 class="section-title">Editor choice</h3>
+                    <h3 class="section-title">XEM NHIỀU NHẤT</h3>
                 </div>
             </div>
         </div>
@@ -159,58 +166,64 @@
                 <div class="row">
                     <div class="col-sm-4  mb-5 mb-sm-2">
                         <div class="position-relative image-hover">
-                            <img src="assets/images/dashboard/star-magazine-9.jpg" class="img-fluid" alt="world-news" />
-                            <span class="thumb-title">LIFESTYLE</span>
+                            <img src="assets/images/dashboard/star-magazine-9.jpg" class="img-fluid"
+                                alt="world-news" />
+                            <span class="thumb-title">THỦ THUẬT</span>
                         </div>
                         <h5 class="font-weight-600 mt-3">
-                            The island country that gave Mayor Pete his name
+                            Thủ thuật đơn giản này sẽ giúp iPhone của bạn tránh bị "đột tử" khi cạn pin
                         </h5>
                     </div>
                     <div class="col-sm-4 mb-5 mb-sm-2">
                         <div class="position-relative image-hover">
-                            <img src="assets/images/dashboard/star-magazine-10.jpg" class="img-fluid" alt="world-news" />
-                            <span class="thumb-title">SPORTS</span>
+                            <img src="assets/images/dashboard/star-magazine-10.jpg" class="img-fluid"
+                                alt="world-news" />
+                            <span class="thumb-title">ỨNG DỤNG</span>
                         </div>
                         <h5 class="font-weight-600 mt-3">
-                            Disney parks expand (good) vegan food options
+                            Google Maps buộc người dùng phải chia sẻ dữ liệu di chuyển để có thể dùng...
                         </h5>
                     </div>
                     <div class="col-sm-4 mb-5 mb-sm-2">
                         <div class="position-relative image-hover">
-                            <img src="assets/images/dashboard/star-magazine-11.jpg" class="img-fluid" alt="world-news" />
-                            <span class="thumb-title">INTERNET</span>
+                            <img src="assets/images/dashboard/star-magazine-11.jpg" class="img-fluid"
+                                alt="world-news" />
+                            <span class="thumb-title">CONCEPT</span>
                         </div>
                         <h5 class="font-weight-600 mt-3">
-                            A hot springs where clothing is optional after dark
+                            Apple Watch Series 7 sẽ có hai kích thước 41mm và 45mm
                         </h5>
                     </div>
                 </div>
                 <div class="row mt-3">
                     <div class="col-sm-4 mb-5 mb-sm-2">
                         <div class="position-relative image-hover">
-                            <img src="assets/images/dashboard/star-magazine-12.jpg" class="img-fluid" alt="world-news" />
-                            <span class="thumb-title">NEWS</span>
+                            <img src="assets/images/dashboard/star-magazine-12.jpg" class="img-fluid"
+                                alt="world-news" />
+                            <span class="thumb-title">MOBILE</span>
                         </div>
                         <h5 class="font-weight-600 mt-3">
-                            Japanese chef carves food into incredible pieces of art
+                            Nóng: Apple chính thức công bố ngày ra mắt iPhone 13
                         </h5>
                     </div>
                     <div class="col-sm-4 mb-5 mb-sm-2">
                         <div class="position-relative image-hover">
-                            <img src="assets/images/dashboard/star-magazine-13.jpg" class="img-fluid" alt="world-news" />
-                            <span class="thumb-title">NEWS</span>
+                            <img src="assets/images/dashboard/star-magazine-13.jpg" class="img-fluid"
+                                alt="world-news" />
+                            <span class="thumb-title">CÔNG NGHỆ VUI</span>
                         </div>
                         <h5 class="font-weight-600 mt-3">
-                            The Misanthrope Society: A Taipei bar for people who
+                            Lắp thêm bếp từ chung với bếp ga, tôi bất ngờ nhận ra tiền điện gần như...
                         </h5>
                     </div>
                     <div class="col-sm-4 mb-5 mb-sm-2">
                         <div class="position-relative image-hover">
-                            <img src="assets/images/dashboard/star-magazine-14.jpg" class="img-fluid" alt="world-news" />
-                            <span class="thumb-title">TOURISM</span>
+                            <img src="assets/images/dashboard/star-magazine-14.jpg" class="img-fluid"
+                                alt="world-news" />
+                            <span class="thumb-title">CONCEPT</span>
                         </div>
                         <h5 class="font-weight-600 mt-3">
-                            From Pakistan to the Caribbean: Curry's journey
+                            Lộ diện mô hình MacBook Pro với khay chứa bút cảm ứng
                         </h5>
                     </div>
                 </div>
@@ -225,13 +238,14 @@
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="d-flex position-relative float-left">
-                            <h3 class="section-title">Latest News</h3>
+                            <h3 class="section-title">Tin mới nhất</h3>
                         </div>
                     </div>
+
                     <div class="col-sm-12">
                         <div class="border-bottom pb-3">
                             <h5 class="font-weight-600 mt-0 mb-0">
-                                South Korea’s Moon Jae-in sworn in vowing address
+                                iPhone 13 bị lộ tất tần tật 6 màu sắc trên website đại lý bán lẻ
                             </h5>
                             <p class="text-color m-0 d-flex align-items-center">
                                 <span class="fs-10 mr-1">2 hours ago</span>
@@ -244,7 +258,7 @@
                     <div class="col-sm-12">
                         <div class="border-bottom pt-4 pb-3">
                             <h5 class="font-weight-600 mt-0 mb-0">
-                                South Korea’s Moon Jae-in sworn in vowing address
+                                iPhone 13 bị lộ tất tần tật 6 màu sắc trên website đại lý bán lẻ
                             </h5>
                             <p class="text-color m-0 d-flex align-items-center">
                                 <span class="fs-10 mr-1">2 hours ago</span>
@@ -257,7 +271,7 @@
                     <div class="col-sm-12">
                         <div class="border-bottom pt-4 pb-3">
                             <h5 class="font-weight-600 mt-0 mb-0">
-                                South Korea’s Moon Jae-in sworn in vowing address
+                                iPhone 13 bị lộ tất tần tật 6 màu sắc trên website đại lý bán lẻ
                             </h5>
                             <p class="text-color m-0 d-flex align-items-center">
                                 <span class="fs-10 mr-1">2 hours ago</span>
@@ -266,11 +280,10 @@
                                 <i class="mdi mdi-comment-outline"></i>
                             </p>
                         </div>
-                    </div>
-                    <div class="col-sm-12">
-                        <div class="pt-4">
+                    </div><div class="col-sm-12">
+                        <div class="pt-4 pb-3">
                             <h5 class="font-weight-600 mt-0 mb-0">
-                                South Korea’s Moon Jae-in sworn in vowing address
+                                iPhone 13 bị lộ tất tần tật 6 màu sắc trên website đại lý bán lẻ
                             </h5>
                             <p class="text-color m-0 d-flex align-items-center">
                                 <span class="fs-10 mr-1">2 hours ago</span>
@@ -280,6 +293,7 @@
                             </p>
                         </div>
                     </div>
+
                 </div>
             </div>
         </div>
