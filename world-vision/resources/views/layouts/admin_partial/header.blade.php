@@ -5,10 +5,10 @@
             <div class="d-flex justify-content-between align-items-center navbar-top">
                 <ul class="navbar-left">
                     <li>Wed, March 4, 2020</li>
-                    <li>30°C,London</li>
+                    <li>30°C,Hue</li>
                 </ul>
                 <div>
-                    <a class="navbar-brand" href="#"><img src="assets/images/logo.svg" alt="" /></a>
+                    <a class="navbar-brand" href="#"><img src="assets/images/logo-01.png" alt="" width="300"></a>
                 </div>
                 <div class="d-flex">
                     <ul class="navbar-right" style="padding-right: 30px">

@@ -13,32 +13,26 @@ use App\Http\Controllers\TagController;;
 
 Route::get('/home', [PagesController::class, 'getIndex']);
 
-Route::get('/world', function () {
-    return view('user.news.world');
+Route::get('/mobile', function () {
+    return view('user.news.mobile');
 });
-Route::get('/magazine', function () {
-    return view('user.news.magazine');
+// Route::get('/magazine', function () {
+//     return view('user.news.magazine');
+// });
+// Route::get('/blog', function () {
+//     return view('user.news.blog');
+// });
+Route::get('/concept', function () {
+    return view('user.news.concept');
 });
-Route::get('/blog', function () {
-    return view('user.news.blog');
+Route::get('/ung-dung', function () {
+    return view('user.news.ung-dung');
 });
-Route::get('/business', function () {
-    return view('user.news.business');
+Route::get('/thu-thuat', function () {
+    return view('user.news.thu-thuat');
 });
-Route::get('/sports', function () {
-    return view('user.news.sports');
-});
-Route::get('/art', function () {
-    return view('user.news.art');
-});
-Route::get('/politics', function () {
-    return view('user.news.politics');
-});
-Route::get('/real-estate', function () {
-    return view('user.news.real-estate');
-});
-Route::get('/travel', function () {
-    return view('user.news.travel');
+Route::get('/cong-nghe-vui', function () {
+    return view('user.news.cong-nghe-vui');
 });
 
 /* Route for admin */

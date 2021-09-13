@@ -4,10 +4,10 @@
             <div class="carousel-content-wrapper mb-2">
                 <div class="carousel-content">
                     <h1 class="font-weight-bold">
-                        If you wanted to get rich, how would you do it?
+                        Apple: Xe máy có thể làm hỏng iPhone nếu sử dụng không...
                     </h1>
                     <h5 class="font-weight-normal  m-0">
-                        Lorem Ipsum has been the industry's standard
+                        Apple cho biết tính năng chống rung và lấy nét của camera iPhone có thể bị ảnh hưởng.
                     </h5>
                     <p class="text-color m-0 pt-2 d-flex align-items-center">
                         <span class="fs-10 mr-1">2 hours ago</span>
@@ -25,10 +25,10 @@
             <div class="carousel-content-wrapper mb-2">
                 <div class="carousel-content">
                     <h1 class="font-weight-bold">
-                        If you wanted to get rich, how would you do it?
+                        Cách đăng ký và trải nghiệm kho game độc quyền...
                     </h1>
                     <h5 class="font-weight-normal  m-0">
-                        Lorem Ipsum has been the industry's standard
+                        Các trò chơi trên dịch vụ Apple Arcade mang tính độc quyền khi không có trò chơi nào có sẵn trên Google Play.
                     </h5>
                     <p class="text-color m-0 pt-2 d-flex align-items-center">
                         <span class="fs-10 mr-1">2 hours ago</span>
@@ -46,10 +46,10 @@
             <div class="carousel-content-wrapper mb-2">
                 <div class="carousel-content">
                     <h1 class="font-weight-bold">
-                        If you wanted to get rich, how would you do it?
+                        Hiếu PC chỉ rõ 6 điều cần biết khi giao dịch...
                     </h1>
                     <h5 class="font-weight-normal  m-0">
-                        Lorem Ipsum has been the industry's standard
+                        Thủ đoạn của hacker hay những kẻ lừa đảo ngày càng tinh vi, khó kiểm soát nên người dùng cần nâng mức cảnh giác lên tối...
                     </h5>
                     <p class="text-color m-0 pt-2 d-flex align-items-center">
                         <span class="fs-10 mr-1">2 hours ago</span>
@@ -67,10 +67,10 @@
             <div class="carousel-content-wrapper mb-2">
                 <div class="carousel-content">
                     <h1 class="font-weight-bold">
-                        If you wanted to get rich, how would you do it?
+                        IGần 100.000 tài khoản MXH, ngân hàng, chứng khoán...
                     </h1>
                     <h5 class="font-weight-normal  m-0">
-                        Lorem Ipsum has been the industry's standard
+                        Tội phạm mạng tại Việt Nam đang ngày càng tinh vi và hoạt động với quy mô cũng lớn hơn trước đây rất nhiều. Các tài...
                     </h5>
                     <p class="text-color m-0 pt-2 d-flex align-items-center">
                         <span class="fs-10 mr-1">2 hours ago</span>

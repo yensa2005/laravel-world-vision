@@ -12,10 +12,10 @@
                 </button>
             </li>
             <li class="nav-item active">
-                <a class="nav-link active" href="/home">Home</a>
+                <a class="nav-link active" href="/home">Trang chủ</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/world">World</a>
+                <a class="nav-link" href="/mobile">Mobile</a>
             </li>
             {{-- <li class="nav-item">
                 <a class="nav-link" href="/magazine">Magazine</a>
@@ -24,22 +24,16 @@
                 <a class="nav-link" href="/blog">Blog</a>
             </li> --}}
             <li class="nav-item">
-                <a class="nav-link" href="/business">Business</a>
+                <a class="nav-link" href="/concept">Concept</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/sports">Sports</a>
+                <a class="nav-link" href="/ung-dung">Ứng dụng</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/art">Art</a>
+                <a class="nav-link" href="/thu-thuat">Thủ thuật</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/politics">Politics</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/real-estate">Real estate</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/travel">Travel</a>
+                <a class="nav-link" href="/cong-nghe-vui">Công nghệ vui</a>
             </li>
         </ul>
     </div>

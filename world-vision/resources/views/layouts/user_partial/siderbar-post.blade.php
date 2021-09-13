@@ -8,7 +8,7 @@
         <div class="col-sm-12">
             <div class="border-bottom pb-3">
                 <h5 class="font-weight-600 mt-0 mb-0">
-                    South Korea’s Moon Jae-in sworn in vowing address
+                    iPhone 13 bị lộ tất tần tật 6 màu sắc trên website đại lý bán lẻ
                 </h5>
                 <p class="text-color m-0 d-flex align-items-center">
                     <span class="fs-10 mr-1">2 hours ago</span>
@@ -21,7 +21,7 @@
         <div class="col-sm-12">
             <div class="border-bottom pt-4 pb-3">
                 <h5 class="font-weight-600 mt-0 mb-0">
-                    South Korea’s Moon Jae-in sworn in vowing address
+                    iPhone 13 bị lộ tất tần tật 6 màu sắc trên website đại lý bán lẻ
                 </h5>
                 <p class="text-color m-0 d-flex align-items-center">
                     <span class="fs-10 mr-1">2 hours ago</span>
@@ -34,7 +34,7 @@
         <div class="col-sm-12">
             <div class="border-bottom pt-4 pb-3">
                 <h5 class="font-weight-600 mt-0 mb-0">
-                    South Korea’s Moon Jae-in sworn in vowing address
+                    iPhone 13 bị lộ tất tần tật 6 màu sắc trên website đại lý bán lẻ
                 </h5>
                 <p class="text-color m-0 d-flex align-items-center">
                     <span class="fs-10 mr-1">2 hours ago</span>
@@ -47,7 +47,7 @@
         <div class="col-sm-12">
             <div class="pt-4">
                 <h5 class="font-weight-600 mt-0 mb-0">
-                    South Korea’s Moon Jae-in sworn in vowing address
+                    iPhone 13 bị lộ tất tần tật 6 màu sắc trên website đại lý bán lẻ
                 </h5>
                 <p class="text-color m-0 d-flex align-items-center">
                     <span class="fs-10 mr-1">2 hours ago</span>
@@ -67,7 +67,7 @@
         <div class="col-sm-12">
             <div class="border-bottom pb-3">
                 <h5 class="font-weight-600 mt-0 mb-0">
-                    America's most popular national
+                    Chiếc điện thoại Android bảo mật nhất thế giới giá 750 USD
                 </h5>
                 <p class="text-color m-0 d-flex align-items-center">
                     <span class="fs-10 mr-1">2 hours ago</span>
@@ -80,7 +80,7 @@
         <div class="col-sm-12">
             <div class="border-bottom pt-4 pb-3">
                 <h5 class="font-weight-600 mt-0 mb-0">
-                    America's most popular national
+                    Chiếc điện thoại Android bảo mật nhất thế giới giá 750 USD
                 </h5>
                 <p class="text-color m-0 d-flex align-items-center">
                     <span class="fs-10 mr-1">2 hours ago</span>
@@ -93,7 +93,7 @@
         <div class="col-sm-12">
             <div class="border-bottom pt-4 pb-3">
                 <h5 class="font-weight-600 mt-0 mb-0">
-                    America's most popular national
+                    Chiếc điện thoại Android bảo mật nhất thế giới giá 750 USD
                 </h5>
                 <p class="text-color m-0 d-flex align-items-center">
                     <span class="fs-10 mr-1">2 hours ago</span>
@@ -106,7 +106,7 @@
         <div class="col-sm-12">
             <div class="pt-4">
                 <h5 class="font-weight-600 mt-0 mb-0">
-                    America's most popular national
+                    Chiếc điện thoại Android bảo mật nhất thế giới giá 750 USD
                 </h5>
                 <p class="text-color m-0 d-flex align-items-center">
                     <span class="fs-10 mr-1">2 hours ago</span>
