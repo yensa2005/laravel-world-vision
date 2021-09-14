@@ -16,6 +16,7 @@
                 </div>
             </div>
         </div>
+        <h5 class="text-primary font-weight-bold mb-3"><i class="fas fa-fire pr-2"></i>TIÊU ĐIỂM TUẦN</h5>
         <div class="row">
             <div class="col-lg-6 mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
@@ -85,6 +86,7 @@
                 </div>
             </div>
         </div>
+        <hr class="my-5">
         <div class="row mb-4">
             <div class="col-sm-3  mb-5 mb-sm-2">
                 <div class="position-relative image-hover">

@@ -39,7 +39,7 @@
                     Bạn đang chờ đợi iPhone 13 phiên bản màu hồng hay màu cam?Apple đã chính thức đăng tải thư mời sự
                     kiện...
                 </p>
-                <a href="/news/detail2" class="font-weight-bold text-dark pt-2">Đọc thêm</a>
+                <a href="/news/detail" class="font-weight-bold text-dark pt-2">Đọc thêm</a>
             </div>
             <div class="col-lg-3 col-sm-6 mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
@@ -53,7 +53,7 @@
                     Cư dân mạng đang xôn xao về một phiên bản màu cam đồng mới của iPhone 13 series, nhìn cái là muốn "chốt
                     đơn".
                 </p>
-                <a href="#" class="font-weight-bold text-dark pt-2">Đọc thêm</a>
+                <a href="/news/detail" class="font-weight-bold text-dark pt-2">Đọc thêm</a>
             </div>
             <div class="col-lg-3 col-sm-6 mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
@@ -67,7 +67,7 @@
                     Tuy có số người theo dõi trên Instagram thấp hơn Lisa nhưng lượng tương tác của Jennie lại cực kì đáng
                     gờm.
                 </p>
-                <a href="#" class="font-weight-bold text-dark pt-2">Đọc thêm</a>
+                <a href="/news/detail" class="font-weight-bold text-dark pt-2">Đọc thêm</a>
             </div>
         </div>
     </div>
@@ -230,9 +230,9 @@
             </div>
             <div class="col-lg-3">
                 <div class="position-relative mb-3">
-                    <img src="assets/images/dashboard/star-magazine-15.jpg" class="img-fluid" alt="world-news" />
-                    <div class="video-thumb text-muted">
-                        <span><i class="mdi mdi-menu-right"></i></span>LIVE
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/137857207"
+                            allowfullscreen></iframe>
                     </div>
                 </div>
                 <div class="row">
@@ -280,7 +280,8 @@
                                 <i class="mdi mdi-comment-outline"></i>
                             </p>
                         </div>
-                    </div><div class="col-sm-12">
+                    </div>
+                    <div class="col-sm-12">
                         <div class="pt-4 pb-3">
                             <h5 class="font-weight-600 mt-0 mb-0">
                                 iPhone 13 bị lộ tất tần tật 6 màu sắc trên website đại lý bán lẻ

@@ -8,133 +8,103 @@
             <div class="rela-block profile-card">
                 <div class="profile-pic" id="profile_pic"></div>
                 <div class="rela-block profile-name-container">
-                    <div class="rela-block user-name" id="user_name">User Name Here</div>
+                    Hoang Phuong
                 </div>
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="d-flex justify-content-center">
-                            <div class="d-flex justify-content-center footer-social">
-                                <ul class="social-media">
-                                    <li>
-                                        <a href="#">
-                                            <i class="mdi mdi-instagram"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="mdi mdi-facebook"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="mdi mdi-youtube"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="mdi mdi-linkedin"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="mdi mdi-twitter"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
+                <div class="d-flex justify-content-center footer-social">
+                    <ul class="social-media">
+                        <li><a href="https://instagram.com"><i class="mdi mdi-instagram mdi-icon"></i></a></li>
+                        <li><a href="https://facebook.com"><i class="mdi mdi-facebook mdi-icon"></i></a></li>
+                        <li><a href="https://youtube.com"><i class="mdi mdi-youtube mdi-icon"></i></a></li>
+                        <li><a href="https://linkedin.com"><i class="mdi mdi-linkedin mdi-icon"></i></a></li>
+                        <li><a href="https://twitter.com"><i class="mdi mdi-twitter mdi-icon"></i></a></li>
+                    </ul>
                 </div>
                 <div class="rela-block profile-card-stats">
-                    <div class="floated profile-stat works" id="num_works">6<br></div>
+                    <div class="floated profile-stat works" id="num_works">8<br></div>
                     <div class="floated profile-stat followers" id="num_followers">112<br></div>
                     <div class="floated profile-stat following" id="num_following">245<br></div>
                 </div>
             </div>
         </div>
-        <a href="profile/edit" style="display: flex;
-            justify-content: center;
-            margin: 20px 0;
-            color: #000;"><i class="bi bi-pencil-square mr-2"></i>Chỉnh sửa trang cá nhân</a>
+        <a href="profile/edit" class="d-flex justify-content-center my-4 text-dark"><i
+                class="bi bi-pencil-square mr-2"></i>Cập nhật trang cá nhân</a>
         <div class="pb-3">
             <b>Danh sách bài viết</b>
         </div>
-        <div class="row">
-            <div class="col-lg-12  mb-5 mb-sm-2">
-                <div class="row">
-                    <div class="col-sm-6  mb-5 mb-sm-2">
-                        <div class="position-relative image-hover">
-                            <img src="assets/images/dashboard/star-magazine-5.jpg" class="img-fluid" alt="world-news" />
-                            <span class="thumb-title">POLITICS</span>
-                        </div>
-                        <h5 class="font-weight-600 mt-3">
-                            A look at California's eerie plane graveyards
-                        </h5>
-                        <p class="fs-15 font-weight-normal">
-                            Lorem Ipsum has been the industry's standard dummy text
-                        </p>
-                    </div>
-                    <div class="col-sm-6  mb-5 mb-sm-2">
-                        <div class="position-relative image-hover">
-                            <img src="assets/images/dashboard/star-magazine-6.jpg" class="img-fluid" alt="world-news" />
-                            <span class="thumb-title">TRAVEL</span>
-                        </div>
-                        <h5 class="font-weight-600 mt-3">
-                            The world's most beautiful racecourses
-                        </h5>
-                        <p class="fs-15 font-weight-normal">
-                            Lorem Ipsum has been the industry's standard dummy text
-                        </p>
-                    </div>
-                    <div class="col-sm-6  mb-5 mb-sm-2">
-                        <div class="position-relative image-hover">
-                            <img src="assets/images/dashboard/star-magazine-5.jpg" class="img-fluid" alt="world-news" />
-                            <span class="thumb-title">POLITICS</span>
-                        </div>
-                        <h5 class="font-weight-600 mt-3">
-                            A look at California's eerie plane graveyards
-                        </h5>
-                        <p class="fs-15 font-weight-normal">
-                            Lorem Ipsum has been the industry's standard dummy text
-                        </p>
-                    </div>
-                    <div class="col-sm-6  mb-5 mb-sm-2">
-                        <div class="position-relative image-hover">
-                            <img src="assets/images/dashboard/star-magazine-6.jpg" class="img-fluid" alt="world-news" />
-                            <span class="thumb-title">TRAVEL</span>
-                        </div>
-                        <h5 class="font-weight-600 mt-3">
-                            The world's most beautiful racecourses
-                        </h5>
-                        <p class="fs-15 font-weight-normal">
-                            Lorem Ipsum has been the industry's standard dummy text
-                        </p>
-                    </div>
-                    <div class="col-sm-6  mb-5 mb-sm-2">
-                        <div class="position-relative image-hover">
-                            <img src="assets/images/dashboard/star-magazine-5.jpg" class="img-fluid" alt="world-news" />
-                            <span class="thumb-title">POLITICS</span>
-                        </div>
-                        <h5 class="font-weight-600 mt-3">
-                            A look at California's eerie plane graveyards
-                        </h5>
-                        <p class="fs-15 font-weight-normal">
-                            Lorem Ipsum has been the industry's standard dummy text
-                        </p>
-                    </div>
-                    <div class="col-sm-6  mb-5 mb-sm-2">
-                        <div class="position-relative image-hover">
-                            <img src="assets/images/dashboard/star-magazine-6.jpg" class="img-fluid" alt="world-news" />
-                            <span class="thumb-title">TRAVEL</span>
-                        </div>
-                        <h5 class="font-weight-600 mt-3">
-                            The world's most beautiful racecourses
-                        </h5>
-                        <p class="fs-15 font-weight-normal">
-                            Lorem Ipsum has been the industry's standard dummy text
-                        </p>
-                    </div>
+        <div class="row mb-4">
+            <div class="col-sm-3  mb-5 mb-sm-2">
+                <div class="position-relative image-hover">
+                    <img src="../assets/images/real-estate/Realestate_6.jpg" class="img-fluid" alt="world-news" />
+                    <span class="thumb-title">REAL ESTATE</span>
                 </div>
+                <h5 class="font-weight-600 mt-3">
+                    The island country that gave Mayor Pete his name
+                </h5>
+            </div>
+            <div class="col-sm-3  mb-5 mb-sm-2">
+                <div class="position-relative image-hover">
+                    <img src="../assets/images/real-estate/Realestate_10.jpg" class="img-fluid" alt="world-news" />
+                    <span class="thumb-title">REAL ESTATE</span>
+                </div>
+                <h5 class="font-weight-600 mt-3">
+                    Disney parks expand (good) vegan food options
+                </h5>
+            </div>
+            <div class="col-sm-3  mb-5 mb-sm-2">
+                <div class="position-relative image-hover">
+                    <img src="../assets/images/real-estate/Realestate_14.jpg" class="img-fluid" alt="world-news" />
+                    <span class="thumb-title">REAL ESTATE</span>
+                </div>
+                <h5 class="font-weight-600 mt-3">
+                    A hot springs where clothing is optional after dark
+                </h5>
+            </div>
+            <div class="col-sm-3  mb-5 mb-sm-2">
+                <div class="position-relative image-hover">
+                    <img src="../assets/images/real-estate/Realestate_16.jpg" class="img-fluid" alt="world-news" />
+                    <span class="thumb-title">REAL ESTATE</span>
+                </div>
+                <h5 class="font-weight-600 mt-3">
+                    A hot springs where clothing is optional after dark
+                </h5>
+            </div>
+        </div>
+        <div class="row mb-4">
+            <div class="col-sm-3  mb-5 mb-sm-2">
+                <div class="position-relative image-hover">
+                    <img src="../assets/images/real-estate/Realestate_8.jpg" class="img-fluid" alt="world-news" />
+                    <span class="thumb-title">REAL ESTATE</span>
+                </div>
+                <h5 class="font-weight-600 mt-3">
+                    Japanese chef carves food into incredible pieces of art
+                </h5>
+            </div>
+            <div class="col-sm-3  mb-5 mb-sm-2">
+                <div class="position-relative image-hover">
+                    <img src="../assets/images/real-estate/Realestate_12.jpg" class="img-fluid" alt="world-news" />
+                    <span class="thumb-title">REAL ESTATE</span>
+                </div>
+                <h5 class="font-weight-600 mt-3">
+                    The Misanthrope Society: A Taipei bar for people who
+                </h5>
+            </div>
+            <div class="col-sm-3  mb-5 mb-sm-2">
+                <div class="position-relative image-hover">
+                    <img src="../assets/images/real-estate/Realestate_18.jpg" class="img-fluid" alt="world-news" />
+                    <span class="thumb-title">REAL ESTATE</span>
+                </div>
+                <h5 class="font-weight-600 mt-3">
+                    From Pakistan to the Caribbean: Curry's journey
+                </h5>
+            </div>
+            <div class="col-sm-3  mb-5 mb-sm-2">
+                <div class="position-relative image-hover">
+                    <img src="../assets/images/real-estate/Realestate_20.jpg" class="img-fluid" alt="world-news" />
+                    <span class="thumb-title">REAL ESTATE</span>
+                </div>
+                <h5 class="font-weight-600 mt-3">
+                    A hot springs where clothing is optional after dark
+                </h5>
             </div>
         </div>
     </div>
@@ -175,7 +145,7 @@
             width: 180px;
             border: 2px solid #fff;
             border-radius: 100%;
-            background: url("https://pbs.twimg.com/media/CdbiubzVIAANj8J.jpg") center no-repeat;
+            background: url("../assets/images/dashboard/Profile_1.jpg") center no-repeat;
             background-size: cover;
             box-shadow: 0 2px 6px -2px rgba(0, 0, 0, 0.26);
 
@@ -185,7 +155,8 @@
             margin: 0 auto 10px;
             padding: 10px;
             text-align: center;
-
+            font-weight: 500;
+            font-size: 1.5rem;
         }
 
         .user-name {
@@ -194,11 +165,6 @@
             font-weight: 500;
             line-height: 30px;
             margin-bottom: 10px;
-        }
-
-        .user-desc {
-
-            color: #999;
         }
 
         .profile-card-stats {
@@ -230,36 +196,20 @@
             content: "theo dõi";
         }
 
-        .image {
-            width: 240px;
-            height: 200px;
-            cursor: pointer;
-            margin: 0 20px 40px;
-            overflow: hidden;
-            border-radius: 5px;
-            border: 10px solid #fff;
-            box-shadow: 0 2px 6px -2px rgba(0, 0, 0, 0.26);
-            background-color: rgba(0, 0, 0, 0.4);
-            background-size: cover !important;
-            -webkit-transition: 0.2s cubic-bezier(0.5, 0, 0.2, 1);
-            transition: 0.2s cubic-bezier(0.5, 0, 0.2, 1);
-        }
-
-        .image:hover {
-            -webkit-transform: scale(1.06);
-            transform: scale(1.06);
-            box-shadow: 0 2px 18px -2px rgba(0, 0, 0, 0.3);
-        }
-
-        .image.hidden {
-            height: 0;
-            width: 0px;
-            margin: 0px;
-            border: 0px solid #fff;
-        }
-
         .social-media {
             padding-left: 0;
+        }
+
+        .social-media li a i {
+            font-size: 15px;
+        }
+
+        .mdi-icon {
+            color: #000;
+        }
+
+        .mdi-icon:hover {
+            color: #0a62fb;
         }
 
     </style>

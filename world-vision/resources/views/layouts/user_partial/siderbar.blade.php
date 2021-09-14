@@ -36,7 +36,7 @@
             </div>
         </div>
         <div class="col-sm-6">
-            <div class="pt-3 pb-4 border-bottom">
+            <div class="pt-4 pb-4 border-bottom">
                 <div class="d-flex align-items-center pb-2">
                     <img src="assets/images/dashboard/Profile_4.jpg" class="img-xs img-rounded mr-2" alt="thumb" />
                     <span class="fs-12 text-muted">Tien Dung</span>
@@ -60,7 +60,7 @@
             </div>
         </div>
         <div class="col-sm-6">
-            <div class="pt-3 pb-4">
+            <div class="pt-4 pb-4">
                 <div class="d-flex align-items-center pb-2">
                     <img src="assets/images/dashboard/Profile_6.jpg" class="img-xs img-rounded mr-2" alt="thumb" />
                     <span class="fs-12 text-muted">Pham Long</span>

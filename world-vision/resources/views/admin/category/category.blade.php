@@ -15,8 +15,10 @@
                             <div class="col-sm-9 col-xs-12 text-right">
                                 <div class="btn_group">
                                     <input type="text" class="form-control" placeholder="Tìm kiếm">
-                                    <button class="btn btn-default" title="Làm mới"><a href="/admin/category"><i class="fa fa-sync-alt"></i></a></button>
-                                    <button class="btn btn-default" title="Thêm"><a href="category/create"><i class="bi bi-plus-lg"></i></a></button>
+                                    <button class="btn btn-default" title="Làm mới"><a href="/admin/category"><i
+                                                class="fa fa-sync-alt"></i></a></button>
+                                    <button class="btn btn-default" title="Thêm"><a href="category/create"><i
+                                                class="bi bi-plus-lg"></i></a></button>
                                     {{-- <button class="btn btn-default" title="Pdf"><i class="fa fa-file-pdf"></i></button>
                                     <button class="btn btn-default" title="Excel"><i class="fas fa-file-excel"></i></button> --}}
                                 </div>
@@ -138,29 +140,33 @@
         </div>
     </div>
     <style>
-        .pagination{
+        .pagination {
             display: flex;
             justify-content: flex-end;
             padding: 0;
 
         }
+
         .pagination>li>a,
         .pagination>li>span {
             font-weight: 100;
             margin: 0 5px;
             color: #000;
         }
+
         .pagination>li>a:hover,
         .pagination>li>span:hover {
             margin: 0 5px;
             color: #007bff;
         }
 
-        .fa-trash, .icon-off {
+        .fa-trash,
+        .icon-off {
             color: #B61919;
         }
 
-        .fa-edit, .icon-on {
+        .fa-edit,
+        .icon-on {
             color: #66DE93;
         }
 

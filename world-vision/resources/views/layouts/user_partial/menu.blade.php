@@ -17,12 +17,6 @@
             <li class="nav-item">
                 <a class="nav-link" href="/mobile">Mobile</a>
             </li>
-            {{-- <li class="nav-item">
-                <a class="nav-link" href="/magazine">Magazine</a>
-            </li> --}}
-            {{-- <li class="nav-item">
-                <a class="nav-link" href="/blog">Blog</a>
-            </li> --}}
             <li class="nav-item">
                 <a class="nav-link" href="/concept">Concept</a>
             </li>
@@ -35,6 +29,19 @@
             <li class="nav-item">
                 <a class="nav-link" href="/cong-nghe-vui">Công nghệ vui</a>
             </li>
+            <li>
+                <input class="search-nav" type="text" name="search" placeholder="Search..">
+                <i class="bi bi-search"></i>
+            </li>
         </ul>
     </div>
 </div>
+<style>
+    .search-nav {
+        width: 200px;
+        font-size: 12px;
+        border: none;
+        border-bottom: 1px solid #000;
+    }
+
+</style>

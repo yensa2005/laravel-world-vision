@@ -18,11 +18,11 @@
                 </ul>
                 <div class="d-flex justify-content-center footer-social">
                     <ul class="social-media">
-                        <li><a href="#"><i class="mdi mdi-instagram mdi-icon"></i></a></li>
-                        <li><a href="#"><i class="mdi mdi-facebook mdi-icon"></i></a></li>
-                        <li><a href="#"><i class="mdi mdi-youtube mdi-icon"></i></a></li>
-                        <li><a href="#"><i class="mdi mdi-linkedin mdi-icon"></i></a></li>
-                        <li><a href="#"><i class="mdi mdi-twitter mdi-icon"></i></a></li>
+                        <li><a href="https://instagram.com"><i class="mdi mdi-instagram mdi-icon"></i></a></li>
+                        <li><a href="https://facebook.com"><i class="mdi mdi-facebook mdi-icon"></i></a></li>
+                        <li><a href="https://youtube.com"><i class="mdi mdi-youtube mdi-icon"></i></a></li>
+                        <li><a href="https://linkedin.com"><i class="mdi mdi-linkedin mdi-icon"></i></a></li>
+                        <li><a href="https://twitter.com"><i class="mdi mdi-twitter mdi-icon"></i></a></li>
                     </ul>
                 </div>
             </div>

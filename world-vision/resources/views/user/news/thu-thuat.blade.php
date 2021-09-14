@@ -8,13 +8,13 @@
             <div class="col-sm-12">
                 <div class="text-center">
                     <h1 class="text-center mt-2">
-                        Politics
+                        Thủ thuật
                     </h1>
                     <p class="text-secondary fs-15 mb-5">
                         Cung cấp các thông tin các thủ thuật khi sử dụng công nghệ
                     </p>
                 </div>
-                <h5 class="text-muted font-weight-medium mb-3">World News</h5>
+                <h5 class="text-primary font-weight-bold mb-3"><i class="fas fa-fire pr-2"></i>TIÊU ĐIỂM TUẦN</h5>
             </div>
         </div>
         <div class="row">
@@ -86,11 +86,7 @@
                 </div>
             </div>
         </div>
-        <div class="row mt-5">
-            <div class="col-sm-12">
-                <h5 class="text-muted font-weight-medium mb-3">Popular News</h5>
-            </div>
-        </div>
+        <hr class="my-5">
         <div class="row mb-4">
             <div class="col-sm-3  mb-5 mb-sm-2">
                 <div class="position-relative image-hover">

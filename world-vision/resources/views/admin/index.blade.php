@@ -77,7 +77,7 @@
             <div class="card-profile col-lg-5">
                 <div class="card-item">
                     <p class="card-view-detail">Người dùng</p>
-                    <a href="/admin/author"><i class="bi bi-arrow-right-circle"></i></a>
+                    <a href="/admin/author/list"><i class="bi bi-arrow-right-circle"></i></a>
                 </div>
                 <hr class="m-0">
                 <div class="card-item">
@@ -86,7 +86,7 @@
                             <img src="assets/images/dashboard/Profile_1.png" alt="">
                             <div class="content pl-3">
                                 <p class="m-0 font-weight-bold">Yen Sa</p>
-                                <p class="m-0">ttysa98tcv@gmail.com</p>
+                                <p class="fs-14 m-0">ttysa98tcv@gmail.com</p>
                             </div>
                         </div>
                         <div class="card-img-right">
@@ -102,7 +102,7 @@
                             <img src="assets/images/dashboard/Profile_2.png" alt="">
                             <div class="content pl-3">
                                 <p class="m-0 font-weight-bold">Luong Hoang</p>
-                                <p class="m-0">luonghoang@gmail.com</p>
+                                <p class="fs-14 m-0">luonghoang@gmail.com</p>
                             </div>
                         </div>
                         <div class="card-img-right">
@@ -118,7 +118,7 @@
                             <img src="assets/images/dashboard/Profile_3.png" alt="">
                             <div class="content pl-3">
                                 <p class="m-0 font-weight-bold">Cao Tuan</p>
-                                <p class="m-0">caotuan@gmail.com</p>
+                                <p class="fs-14 m-0">caotuan@gmail.com</p>
                             </div>
                         </div>
                         <div class="card-img-right">
@@ -134,7 +134,7 @@
                             <img src="assets/images/dashboard/Profile_4.png" alt="">
                             <div class="content pl-3">
                                 <p class="m-0 font-weight-bold">Chuan Hai</p>
-                                <p class="m-0">chuanhai@gmail.com</p>
+                                <p class="fs-14 m-0">chuanhai@gmail.com</p>
                             </div>
                         </div>
                         <div class="card-img-right">
@@ -150,7 +150,7 @@
                             <img src="assets/images/dashboard/Profile_5.png" alt="">
                             <div class="content pl-3">
                                 <p class="m-0 font-weight-bold">Thuy Trang</p>
-                                <p class="m-0">thuytrang@gmail.com</p>
+                                <p class="fs-14 m-0">thuytrang@gmail.com</p>
                             </div>
                         </div>
                         <div class="card-img-right">
@@ -163,7 +163,7 @@
             <div class="card-post col-lg-7">
                 <div class="card-item">
                     <p class="card-view-detail">Bài viết</p>
-                    <a href="/admin/author"><i class="bi bi-arrow-right-circle"></i></a>
+                    <a href="/admin/author/list"><i class="bi bi-arrow-right-circle"></i></a>
                 </div>
                 <hr class="m-0">
                 <div class="card-item">
@@ -172,7 +172,7 @@
                             <img src="assets/images/admin/post/facebook.jpg" alt="">
                             <div class="content pl-3">
                                 <p class="m-0 font-weight-bold">Thử màn hình cảm ứng trên Windows 11</p>
-                                <p class="m-0">ttysa98tcv@gmail.com</p>
+                                <p class="fs-14 m-0">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
                             </div>
                         </div>
                         <div class="card-img-right">
@@ -188,7 +188,7 @@
                             <img src="assets/images/admin/post/telegram.jpg" alt="">
                             <div class="content pl-3">
                                 <p class="m-0 font-weight-bold">Hi hữu: Một ứng dụng của Google có...</p>
-                                <p class="m-0">ttysa98tcv@gmail.com</p>
+                                <p class="fs-14 m-0">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
                             </div>
                         </div>
                         <div class="card-img-right">
@@ -204,7 +204,7 @@
                             <img src="assets/images/admin/post/map.jpg" alt="">
                             <div class="content pl-3">
                                 <p class="m-0 font-weight-bold">Telegram vừa ra mắt một loạt tính...</p>
-                                <p class="m-0">ttysa98tcv@gmail.com</p>
+                                <p class="fs-14 m-0">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
                             </div>
                         </div>
                         <div class="card-img-right">
@@ -220,7 +220,7 @@
                             <img src="assets/images/admin/post/win11.jpg" alt="">
                             <div class="content pl-3">
                                 <p class="m-0 font-weight-bold">Google Maps buộc người dùng phải...</p>
-                                <p class="m-0">ttysa98tcv@gmail.com</p>
+                                <p class="fs-14 m-0">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
                             </div>
                         </div>
                         <div class="card-img-right">
@@ -236,7 +236,7 @@
                             <img src="assets/images/admin/post/google.jpg" alt="">
                             <div class="content pl-3">
                                 <p class="m-0 font-weight-bold">Facebook vinh danh 9 hacker Việt...</p>
-                                <p class="m-0">ttysa98tcv@gmail.com</p>
+                                <p class="fs-14 m-0">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
                             </div>
                         </div>
                         <div class="card-img-right">

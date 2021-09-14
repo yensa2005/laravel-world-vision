@@ -94,7 +94,7 @@
                     <img src="../assets/images/dashboard/Profile_4.jpg" alt="news"
                         class="img-lg img-rounded img-fluid mb-3" />
                     <p class="fs-12 mb-1">Tác giả</p>
-                    <h5 class="font-weight-medium mb-2">Hoang Phuong</h5>
+                    <h5 class="font-weight-medium mb-2">Yen Lam</h5>
                     <div class="row">
                         <div class="col-sm-12">
                             <div class="d-flex justify-content-center">
@@ -171,44 +171,41 @@
                 </div>
             </div>
         </article>
-        <hr class="my-3">
+        <hr class="mt-3 mb-5">
         <h5 class="text-dark font-weight-medium">Bình luận</h5>
-        <section class="mb-5">
+        <section class="mb-5 mt-3">
             <div class="card bg-light">
                 <div class="card-body">
                     <form class="mb-4"><textarea class="form-control" rows="3"
                             placeholder="Join the discussion and leave a comment!"></textarea></form>
                     <div class="d-flex mb-4">
                         <div class="flex-shrink-0"><img class="rounded-circle mr-3"
-                                src="https://dummyimage.com/50x50/ced4da/6c757d.jpg" alt="..." /></div>
+                                src="../assets/images/dashboard/Profile_6.jpg" alt="" width="50"/></div>
                         <div class="ms-3">
                             <div class="fw-bold">
-                                <a href="">Phuong Thao</a>
+                                <a href="">Phuong Tuan</a>
                                 <p>
-                                    If you're going to lead a space frontier, it has to be government; it'll never be
-                                    private enterprise. Because the space frontier is dangerous, and it's expensive, and it
-                                    has unquantified risks.</p>
+                                    Không biết bao giờ ra nhỉ</p>
                             </div>
                             <div class="d-flex mt-4">
                                 <div class="flex-shrink-0"><img class="rounded-circle mr-3"
-                                        src="https://dummyimage.com/50x50/ced4da/6c757d.jpg" alt="..." /></div>
+                                        src="../assets/images/dashboard/Profile_5.jpg" alt="" width="50" /></div>
                                 <div class="ms-3">
                                     <div class="fw-bold">
-                                        <a href="">Quan Vu</a>
+                                        <a href="">Ha Vu</a>
                                         <p>
-                                            And under those conditions, you cannot establish a capital-market evaluation of
-                                            that enterprise. You can't get investors.</p>
+                                            Hình như còn lâu á</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="d-flex mt-4">
                                 <div class="flex-shrink-0"><img class="rounded-circle mr-3"
-                                        src="https://dummyimage.com/50x50/ced4da/6c757d.jpg" alt="..." /></div>
+                                        src="../assets/images/dashboard/Profile_4.jpg" alt="" width="50" /></div>
                                 <div class="ms-3">
                                     <div class="fw-bold">
-                                        <a href="">Yen Nhi</a>
+                                        <a href="">Yen Lam</a>
                                         <p>
-                                            When you put money directly to a problem, it makes a good headline.</p>
+                                            Ra chắc hốt liên luôn kaka</p>
                                     </div>
                                 </div>
                             </div>
@@ -216,13 +213,12 @@
                     </div>
                     <div class="d-flex">
                         <div class="flex-shrink-0"><img class="rounded-circle mr-3"
-                                src="https://dummyimage.com/50x50/ced4da/6c757d.jpg" alt="..." /></div>
+                                src="../assets/images/dashboard/Profile_2.jpg" alt="" width="50" /></div>
                         <div class="ms-3">
                             <div class="fw-bold">
                                 <a href="">Anh Quang</a>
                                 <p>
-                                    When I look at the universe and all the ways the universe wants to kill us, I find it
-                                    hard to reconcile that with statements of beneficence.</p>
+                                    Xinh quáaa</p>
                             </div>
                         </div>
                     </div>
