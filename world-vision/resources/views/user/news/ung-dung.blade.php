@@ -1,6 +1,6 @@
 @extends('layouts.uer_layout')
 
-@section('title', 'Ứng dụng')
+@section('title', 'Ứng dụng - World Vision 2 Tek')
 
 @section('content')
     <div class="col-lg-9">
@@ -11,8 +11,7 @@
                         Ứng dụng
                     </h1>
                     <p class="text-secondary fs-15 mb-5">
-                        This text can be added in the category Description field in
-                        dashboard
+                        Cung cấp các thông tin về ứng dụng
                     </p>
                 </div>
             </div>

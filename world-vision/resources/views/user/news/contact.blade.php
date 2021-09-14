@@ -1,6 +1,6 @@
 @extends('layouts.uer_layout')
 
-@section('title', 'Liên hệ')
+@section('title', 'Liên hệ - World Vision 2 Tek')
 
 @section('content')
     <div class="col-lg-9">

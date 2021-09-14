@@ -1,6 +1,6 @@
 @extends('layouts.uer_layout')
 
-@section('title', 'Chân dung kẻ "gián điệp hai mang" của Apple')
+@section('title', 'Lộ diện concept iPhone 13 màu trắng đẹp mãn nhãn, nhìn là muốn "chốt đơn" ngay!')
 
 @section('content')
     <div class="col-lg-9">
@@ -11,7 +11,7 @@
                         Lộ diện concept iPhone 13 màu trắng đẹp mãn nhãn, nhìn là muốn "chốt đơn" ngay!
                     </h1>
                     <div class="text-center">
-                        <a href="#" class="btn btn-dark font-weight-bold mb-4">Concept</a>
+                        <a href="/concept" class="btn btn-dark font-weight-bold mb-4">Concept</a>
                     </div>
                     <p class="fs-15 d-flex justify-content-center align-items-center m-0">
                         <img src="../assets/images/dashboard/Profile_1.jpg" alt="" class="img-xs img-rounded mr-2" />
@@ -138,15 +138,15 @@
                         <div class="row">
                             <div class="col-sm-4">
                                 <div class="position-relative image-hover">
-                                    <img src="../assets/images/news/news-6.jpg" alt="news" class="img-fluid" />
+                                    <img src="https://kenh14cdn.com/thumb_w/300/203336854389633024/2021/9/13/photo1631545190430-16315451906401977157403.jpg" alt="news" class="img-fluid" />
                                 </div>
                             </div>
                             <div class="col-sm-8">
                                 <div class="position-relative image-hover">
                                     <h5 class="font-weight-600">
-                                        A hot springs where clothing is optional after dark
+                                        Hacker bị tóm gọn vì sai lầm ngớ ngẩn
                                     </h5>
-                                    <p class="fs-15">Oka Tomoaki | 23 February, 2018</p>
+                                    <p class="fs-15">Anh Tuan | 02:35 19/06/2021</p>
                                 </div>
                             </div>
                         </div>
@@ -155,15 +155,15 @@
                         <div class="row">
                             <div class="col-sm-4">
                                 <div class="position-relative image-hover">
-                                    <img src="../assets/images/news/news-6.jpg" alt="news" class="img-fluid" />
+                                    <img src="https://kenh14cdn.com/thumb_w/300/pr/2021/photo-3-16315289998411796562843-0-138-773-1376-crop-1631529152758-63767151540357.jpg" alt="news" class="img-fluid" />
                                 </div>
                             </div>
                             <div class="col-sm-8">
                                 <div class="position-relative image-hover">
                                     <h5 class="font-weight-600">
-                                        A hot springs where clothing is optional after dark
+                                        Giữ vững phong độ học tập, làm việc tại nhà...
                                     </h5>
-                                    <p class="fs-15">Oka Tomoaki | 23 February, 2018</p>
+                                    <p class="fs-15">Quan Vu | 02:35 23/12/2020</p>
                                 </div>
                             </div>
                         </div>
@@ -183,7 +183,7 @@
                                 src="https://dummyimage.com/50x50/ced4da/6c757d.jpg" alt="..." /></div>
                         <div class="ms-3">
                             <div class="fw-bold">
-                                <a href="">Commenter Name</a>
+                                <a href="">Phuong Thao</a>
                                 <p>
                                     If you're going to lead a space frontier, it has to be government; it'll never be
                                     private enterprise. Because the space frontier is dangerous, and it's expensive, and it
@@ -194,7 +194,7 @@
                                         src="https://dummyimage.com/50x50/ced4da/6c757d.jpg" alt="..." /></div>
                                 <div class="ms-3">
                                     <div class="fw-bold">
-                                        <a href="">Commenter Name</a>
+                                        <a href="">Quan Vu</a>
                                         <p>
                                             And under those conditions, you cannot establish a capital-market evaluation of
                                             that enterprise. You can't get investors.</p>
@@ -206,7 +206,7 @@
                                         src="https://dummyimage.com/50x50/ced4da/6c757d.jpg" alt="..." /></div>
                                 <div class="ms-3">
                                     <div class="fw-bold">
-                                        <a href="">Commenter Name</a>
+                                        <a href="">Yen Nhi</a>
                                         <p>
                                             When you put money directly to a problem, it makes a good headline.</p>
                                     </div>
@@ -219,7 +219,7 @@
                                 src="https://dummyimage.com/50x50/ced4da/6c757d.jpg" alt="..." /></div>
                         <div class="ms-3">
                             <div class="fw-bold">
-                                <a href="">Commenter Name</a>
+                                <a href="">Anh Quang</a>
                                 <p>
                                     When I look at the universe and all the ways the universe wants to kill us, I find it
                                     hard to reconcile that with statements of beneficence.</p>

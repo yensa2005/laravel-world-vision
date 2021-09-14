@@ -34,19 +34,25 @@ Route::get('/contact', function () {
 });
 Route::get('/about-us', function () {
     return view('user.news.about-us');
-});Route::get('/faq', function () {
+});
+Route::get('/faq', function () {
     return view('user.news.faq');
 });
 
 /* Route for admin */
 Route::group(['prefix' => 'admin'], function () {
+    //Profile
     Route::get('profile', [AdminController::class, 'getProfile']);
     Route::get('profile/edit', [ProfileController::class, 'editProfile']);
+    //Post
     Route::get('post', [AdminController::class, 'getPost']);
     Route::get('post/create', [PostController::class, 'createPost']);
-    Route::get('author/list', [AdminController::class, 'getAuthor']);
+    //Author
+    Route::get('author', [AdminController::class, 'getAuthor']);
+    //Category
     Route::get('category', [AdminController::class, 'getCategory']);
     Route::get('category/create', [CategoryController::class, 'createCategory']);
+    //Tag
     Route::get('tag', [AdminController::class, 'getTag']);
     Route::get('tag/create', [TagController::class, 'createTag']);
 });

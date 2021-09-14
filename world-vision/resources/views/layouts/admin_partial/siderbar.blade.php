@@ -53,7 +53,7 @@
             </div>
             <div class="col-sm-12">
                 <div class="border-bottom pt-4 pb-1 pl-1">
-                    <a href="/admin/author/list" class="title">
+                    <a href="/admin/author" class="title">
                         <h5 class="font-weight-400 mt-0 mb-0">
                             Quản lý người dùng
                         </h5>

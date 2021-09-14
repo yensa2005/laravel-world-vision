@@ -77,7 +77,7 @@
             <div class="card-profile col-lg-5">
                 <div class="card-item">
                     <p class="card-view-detail">Người dùng</p>
-                    <a href="/admin/author/list"><i class="bi bi-arrow-right-circle"></i></a>
+                    <a href="/admin/author"><i class="bi bi-arrow-right-circle"></i></a>
                 </div>
                 <hr class="m-0">
                 <div class="card-item">
@@ -163,7 +163,7 @@
             <div class="card-post col-lg-7">
                 <div class="card-item">
                     <p class="card-view-detail">Bài viết</p>
-                    <a href="/admin/author/list"><i class="bi bi-arrow-right-circle"></i></a>
+                    <a href="/admin/author"><i class="bi bi-arrow-right-circle"></i></a>
                 </div>
                 <hr class="m-0">
                 <div class="card-item">

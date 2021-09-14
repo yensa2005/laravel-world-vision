@@ -1,6 +1,6 @@
 @extends('layouts.uer_layout')
 
-@section('title', 'Mobile')
+@section('title', 'Mobile - World Vision 2 Tek')
 
 @section('content')
     <div class="col-lg-9">
@@ -11,8 +11,7 @@
                         Mobile
                     </h1>
                     <p class="text-secondary fs-15 mb-5">
-                        This text can be added in the category Description field in
-                        dashboard
+                        Cung cấp các thông tin liên quan đến điện thoại
                     </p>
                 </div>
                 <h5 class="text-primary font-weight-medium mb-3">TIÊU ĐIỂM TUẦN</h5>

@@ -1,6 +1,6 @@
 @extends('layouts.uer_layout')
 
-@section('title', 'Concept')
+@section('title', 'Concept - World Vision 2 Tek')
 
 @section('content')
     <div class="col-lg-9">
@@ -11,8 +11,7 @@
                         Concept
                     </h1>
                     <p class="text-secondary fs-15 mb-5">
-                        This text can be added in the category Description field in
-                        dashboard
+                        Cung cấp các thông tin về các mẫu thiết kế của công nghệ
                     </p>
                 </div>
                 <h5 class="text-muted font-weight-medium mb-3">World News</h5>
