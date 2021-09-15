@@ -12,13 +12,11 @@
                             <div class="col col-sm-3 col-xs-12">
                                 <h4 class="title">Danh sách</h4>
                             </div>
-                            <div class="col-sm-9 col-xs-12 text-right">
+                            <div class="col-sm-9 col-xs-12 text-right p-0">
                                 <div class="btn_group">
-                                    <input type="text" class="form-control" placeholder="Tìm kiếm">
-                                    <button class="btn btn-default" title="Làm mới"><i class="fa fa-sync-alt"></i></button>
-                                    <button class="btn btn-default" title="Thêm"><a href="tag/create"><i class="bi bi-plus-lg"></i></a></button>
-                                    {{-- <button class="btn btn-default" title="Pdf"><i class="fa fa-file-pdf"></i></button>
-                                    <button class="btn btn-default" title="Excel"><i class="fas fa-file-excel"></i></button> --}}
+                                    <input type="text" class="form-control">
+                                    <a href="/admin/post"><button class="btn btn-default mx-2">Làm mới</button></a>
+                                    <a href="post/create"><button class="btn btn-default">Thêm</button></a>
                                 </div>
                             </div>
                         </div>
@@ -57,7 +55,8 @@
                                     <td>2</td>
                                     <td>windown 11</td>
                                     <td>windown-11</td>
-                                    <td>834</td><td>
+                                    <td>834</td>
+                                    <td>
                                         <ul class="action-list">
                                             <li><a href="#" data-tip="edit"><i class="fa fa-edit"></i></a></li>
                                             <li><a href="#" data-tip="delete"><i class="fa fa-trash"></i></a></li>
@@ -70,7 +69,8 @@
                                     <td>3</td>
                                     <td>google</td>
                                     <td>google</td>
-                                    <td>334</td><td>
+                                    <td>334</td>
+                                    <td>
                                         <ul class="action-list">
                                             <li><a href="#" data-tip="edit"><i class="fa fa-edit"></i></a></li>
                                             <li><a href="#" data-tip="delete"><i class="fa fa-trash"></i></a></li>
@@ -83,7 +83,8 @@
                                     <td>4</td>
                                     <td>giới thiệu</td>
                                     <td>gioi-thieu</td>
-                                    <td>3544</td><td>
+                                    <td>3544</td>
+                                    <td>
                                         <ul class="action-list">
                                             <li><a href="#" data-tip="edit"><i class="fa fa-edit"></i></a></li>
                                             <li><a href="#" data-tip="delete"><i class="fa fa-trash"></i></a></li>
@@ -96,7 +97,8 @@
                                     <td>5</td>
                                     <td>telegram</td>
                                     <td>telegram</td>
-                                    <td>3234</td><td>
+                                    <td>3234</td>
+                                    <td>
                                         <ul class="action-list">
                                             <li><a href="#" data-tip="edit"><i class="fa fa-edit"></i></a></li>
                                             <li><a href="#" data-tip="delete"><i class="fa fa-trash"></i></a></li>
@@ -128,29 +130,38 @@
         </div>
     </div>
     <style>
-        .pagination{
+        .btn_group {
+            display: flex;
+            justify-content: flex-end;
+        }
+
+        .pagination {
             display: flex;
             justify-content: flex-end;
             padding: 0;
 
         }
+
         .pagination>li>a,
         .pagination>li>span {
             font-weight: 100;
             margin: 0 5px;
             color: #000;
         }
+
         .pagination>li>a:hover,
         .pagination>li>span:hover {
             margin: 0 5px;
             color: #007bff;
         }
 
-        .fa-trash, .icon-off {
+        .fa-trash,
+        .icon-off {
             color: #B61919;
         }
 
-        .fa-edit, .icon-on {
+        .fa-edit,
+        .icon-on {
             color: #66DE93;
         }
 
@@ -176,14 +187,16 @@
         .panel .panel-heading .btn {
             color: #000;
             background: transparent;
-            font-size: 16px;
+            /* font-size: 16px; */
             border: 1px solid #000;
-            border-radius: 50px;
+            /* border-radius: 50px; */
             transition: all 0.3s ease 0s;
+            height: 40px;
         }
 
         .panel .panel-heading .btn:hover {
-            color: #007bff;
+            color: #fff;
+            background: #000;
         }
 
         .panel .panel-heading .form-control {
@@ -191,9 +204,14 @@
             width: 35%;
             height: 40px;
             border: 1px solid #000;
-            border-radius: 20px;
             display: inline-block;
             transition: all 0.3s ease 0s;
+            box-sizing: border-box;
+            padding: 12px 20px 12px 40px;
+            background-repeat: no-repeat;
+            background-position: 10px 9px;
+            background-size: 20px;
+            background-image: url('https://icons-for-free.com/iconfiles/png/512/search+icon-1320183705543171170.png');
         }
 
         .panel .panel-heading .form-control:focus {

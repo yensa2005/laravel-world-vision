@@ -34,76 +34,76 @@
         <div class="row mb-4">
             <div class="col-sm-3  mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
-                    <img src="../assets/images/real-estate/Realestate_6.jpg" class="img-fluid" alt="world-news" />
-                    <span class="thumb-title">REAL ESTATE</span>
+                    <img src="../assets/images/business/Business_18.jpg" class="img-fluid" alt="world-news" />
+                    <span class="thumb-title">CÔNG NGHỆ VUI</span>
                 </div>
                 <h5 class="font-weight-600 mt-3">
-                    The island country that gave Mayor Pete his name
+                    Đây là 4 tính năng camera "xịn xò" sẽ xuất...
+                </h5>
+            </div>
+            <div class="col-sm-3 mb-5 mb-sm-2">
+                <div class="position-relative image-hover">
+                    <img src="../assets/images/dashboard/star-magazine-14.jpg" class="img-fluid" alt="world-news" />
+                    <span class="thumb-title">CONCEPT</span>
+                </div>
+                <h5 class="font-weight-600 mt-3">
+                    Lộ diện mô hình MacBook Pro với khay chứa bút cảm ứng
                 </h5>
             </div>
             <div class="col-sm-3  mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
-                    <img src="../assets/images/real-estate/Realestate_10.jpg" class="img-fluid" alt="world-news" />
-                    <span class="thumb-title">REAL ESTATE</span>
+                    <img src="../assets/images/business/Business_20.jpg" class="img-fluid" alt="world-news" />
+                    <span class="thumb-title">ỨNG DỤNG</span>
                 </div>
                 <h5 class="font-weight-600 mt-3">
-                    Disney parks expand (good) vegan food options
+                    iPhone 13 sắp ra mắt sẽ có những tính năng...
                 </h5>
             </div>
             <div class="col-sm-3  mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
-                    <img src="../assets/images/real-estate/Realestate_14.jpg" class="img-fluid" alt="world-news" />
-                    <span class="thumb-title">REAL ESTATE</span>
+                    <img src="../assets/images/business/Business_21.jpg" class="img-fluid" alt="world-news" />
+                    <span class="thumb-title">THỦ THUẬT</span>
                 </div>
                 <h5 class="font-weight-600 mt-3">
-                    A hot springs where clothing is optional after dark
-                </h5>
-            </div>
-            <div class="col-sm-3  mb-5 mb-sm-2">
-                <div class="position-relative image-hover">
-                    <img src="../assets/images/real-estate/Realestate_16.jpg" class="img-fluid" alt="world-news" />
-                    <span class="thumb-title">REAL ESTATE</span>
-                </div>
-                <h5 class="font-weight-600 mt-3">
-                    A hot springs where clothing is optional after dark
+                    Hãy bán iPhone 12 của bạn ngay bây giờ nếu...
                 </h5>
             </div>
         </div>
-        <div class="row mb-4">
+        <div class="row">
             <div class="col-sm-3  mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
-                    <img src="../assets/images/real-estate/Realestate_8.jpg" class="img-fluid" alt="world-news" />
-                    <span class="thumb-title">REAL ESTATE</span>
+                    <img src="../assets/images/dashboard/star-magazine-9.jpg" class="img-fluid" alt="world-news" />
+                    <span class="thumb-title">THỦ THUẬT</span>
                 </div>
                 <h5 class="font-weight-600 mt-3">
-                    Japanese chef carves food into incredible pieces of art
+                    Thủ thuật đơn giản này sẽ giúp iPhone của bạn tránh bị "đột tử" khi cạn pin
                 </h5>
             </div>
-            <div class="col-sm-3  mb-5 mb-sm-2">
+            <div class="col-sm-3 mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
-                    <img src="../assets/images/real-estate/Realestate_12.jpg" class="img-fluid" alt="world-news" />
-                    <span class="thumb-title">REAL ESTATE</span>
+                    <img src="../assets/images/dashboard/star-magazine-10.jpg" class="img-fluid" alt="world-news" />
+                    <span class="thumb-title">ỨNG DỤNG</span>
                 </div>
                 <h5 class="font-weight-600 mt-3">
-                    The Misanthrope Society: A Taipei bar for people who
+                    Google Maps buộc người dùng phải chia sẻ dữ liệu di chuyển để có thể dùng...
                 </h5>
             </div>
-            <div class="col-sm-3  mb-5 mb-sm-2">
+            <div class="col-sm-3 mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
-                    <img src="../assets/images/real-estate/Realestate_18.jpg" class="img-fluid" alt="world-news" />
-                    <span class="thumb-title">REAL ESTATE</span>
+                    <img src="../assets/images/dashboard/star-magazine-11.jpg" class="img-fluid" alt="world-news" />
+                    <span class="thumb-title">CONCEPT</span>
                 </div>
                 <h5 class="font-weight-600 mt-3">
-                    From Pakistan to the Caribbean: Curry's journey
+                    Apple Watch Series 7 sẽ có hai kích thước 41mm và 45mm
                 </h5>
             </div>
-            <div class="col-sm-3  mb-5 mb-sm-2">
+            <div class="col-sm-3 mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
-                    <img src="../assets/images/real-estate/Realestate_20.jpg" class="img-fluid" alt="world-news" />
-                    <span class="thumb-title">REAL ESTATE</span>
+                    <img src="../assets/images/dashboard/star-magazine-12.jpg" class="img-fluid" alt="world-news" />
+                    <span class="thumb-title">MOBILE</span>
                 </div>
                 <h5 class="font-weight-600 mt-3">
-                    A hot springs where clothing is optional after dark
+                    Nóng: Apple chính thức công bố ngày ra mắt iPhone 13
                 </h5>
             </div>
         </div>
