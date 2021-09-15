@@ -20,67 +20,67 @@
         <div class="row">
             <div class="col-lg-6  mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
-                    <img src="../assets/images/politics/Politics_1.jpg" class="img-fluid" alt="world-news" />
+                    <img src="../assets/images/business/Business_1.jpg" class="img-fluid" alt="world-news" />
                     <span class="thumb-title">CONCEPT</span>
                 </div>
                 <h1 class="font-weight-600 mt-3">
-                    Melania Trump speaks about courage at State Department
+                    Trước giờ ra mắt iPhone 13, Apple vội vã tung bản...
                 </h1>
                 <p class="fs-15 font-weight-normal">
-                    Lorem Ipsum has been the industry's standard dummy text ever since
-                    the 1500s, when an unknown printer took a galley of type and
+                    Bản cập nhật iOS 14.8 được tung ra nhằm vá các lỗi bảo mật nghiêm trọng trên iPhone, Apple khuyến cáo
+                    người dùng nên cập nhật ngay lập tức.
                 </p>
             </div>
             <div class="col-lg-6  mb-5 mb-sm-2">
                 <div class="row">
                     <div class="col-sm-6  mb-5 mb-sm-2">
                         <div class="position-relative image-hover">
-                            <img src="../assets/images/politics/Politics_4.jpg" class="img-fluid" alt="world-news" />
+                            <img src="../assets/images/business/Business_4.jpg" class="img-fluid" alt="world-news" />
                             <span class="thumb-title">CONCEPT</span>
                         </div>
                         <h5 class="font-weight-600 mt-3">
-                            A look at California's eerie plane graveyards
+                            Trước ngày ra mắt, iPhone 13 lộ concept...
                         </h5>
                         <p class="fs-15 font-weight-normal">
-                            Lorem Ipsum has been the industry's standard dummy text
+                            Bạn trông chờ màu gì nhất trên iPhone 13?
                         </p>
                     </div>
                     <div class="col-sm-6  mb-5 mb-sm-2">
                         <div class="position-relative image-hover">
-                            <img src="../assets/images/politics/Politics_2.jpg" class="img-fluid" alt="world-news" />
+                            <img src="../assets/images/business/Business_2.jpg" class="img-fluid" alt="world-news" />
                             <span class="thumb-title">CONCEPT</span>
                         </div>
                         <h5 class="font-weight-600 mt-3">
-                            The world's most beautiful racecourses
+                            iPhone 13 rò rỉ concept toàn bộ 6 màu sắc...
                         </h5>
                         <p class="fs-15 font-weight-normal">
-                            Lorem Ipsum has been the industry's standard dummy text
+                            Bạn đang chờ đợi iPhone 13 phiên bản màu...
                         </p>
                     </div>
                 </div>
                 <div class="row mt-3">
                     <div class="col-sm-6  mb-5 mb-sm-2">
                         <div class="position-relative image-hover">
-                            <img src="../assets/images/politics/Politics_5.jpg" class="img-fluid" alt="world-news" />
+                            <img src="../assets/images/business/Business_3.jpg" class="img-fluid" alt="world-news" />
                             <span class="thumb-title">CONCEPT</span>
                         </div>
                         <h5 class="font-weight-600 mt-3">
-                            Japan cancels cherry blossom festivals over virus fears
+                            Tim Cook: "Ông vua" quản lý chuỗi biến...
                         </h5>
                         <p class="fs-15 font-weight-normal">
-                            Lorem Ipsum has been the industry's standard dummy text
+                            Apple đang dẫn đầu bảng xếp hạng công ty...
                         </p>
                     </div>
                     <div class="col-sm-6">
                         <div class="position-relative image-hover">
-                            <img src="../assets/images/politics/Politics_3.jpg" class="img-fluid" alt="world-news" />
+                            <img src="../assets/images/business/Business_5.jpg" class="img-fluid" alt="world-news" />
                             <span class="thumb-title">CONCEPT</span>
                         </div>
                         <h5 class="font-weight-600 mt-3">
-                            Classic cars reborn as electric vehicles
+                            5 mẫu iPhone chớ dại mà “xuống tiền”...
                         </h5>
                         <p class="fs-15 font-weight-normal">
-                            Lorem Ipsum has been the industry's standard dummy text
+                            Nhiều dòng iPhone đang giảm giá nhưng...
                         </p>
                     </div>
                 </div>
@@ -90,152 +90,152 @@
         <div class="row mb-4">
             <div class="col-sm-3  mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
-                    <img src="../assets/images/politics/Politics_6.jpg" class="img-fluid" alt="world-news" />
+                    <img src="../assets/images/business/Business_6.jpg" class="img-fluid" alt="world-news" />
                     <span class="thumb-title">CONCEPT</span>
                 </div>
                 <h5 class="font-weight-600 mt-3">
-                    The island country that gave Mayor Pete his name
+                    Apple: Xe máy có thể làm hỏng iPhone nếu sử...
                 </h5>
             </div>
             <div class="col-sm-3  mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
-                    <img src="../assets/images/politics/Politics_10.jpg" class="img-fluid" alt="world-news" />
+                    <img src="../assets/images/business/Business_7.jpg" class="img-fluid" alt="world-news" />
                     <span class="thumb-title">CONCEPT</span>
                 </div>
                 <h5 class="font-weight-600 mt-3">
-                    Disney parks expand (good) vegan food options
+                    Tập cuối Penthouse 3, Seok Hoon đăng ảnh hậu...
                 </h5>
             </div>
             <div class="col-sm-3  mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
-                    <img src="../assets/images/politics/Politics_14.jpg" class="img-fluid" alt="world-news" />
+                    <img src="../assets/images/business/Business_8.jpg" class="img-fluid" alt="world-news" />
                     <span class="thumb-title">CONCEPT</span>
                 </div>
                 <h5 class="font-weight-600 mt-3">
-                    A hot springs where clothing is optional after dark
+                    Hashtag #AppleEvent xuất hiện trên mạng xã...
                 </h5>
             </div>
             <div class="col-sm-3  mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
-                    <img src="../assets/images/politics/Politics_16.jpg" class="img-fluid" alt="world-news" />
+                    <img src="../assets/images/business/Business_9.jpg" class="img-fluid" alt="world-news" />
                     <span class="thumb-title">CONCEPT</span>
                 </div>
                 <h5 class="font-weight-600 mt-3">
-                    A hot springs where clothing is optional after dark
-                </h5>
-            </div>
-        </div>
-        <div class="row mb-4">
-            <div class="col-sm-3  mb-5 mb-sm-2">
-                <div class="position-relative image-hover">
-                    <img src="../assets/images/politics/Politics_8.jpg" class="img-fluid" alt="world-news" />
-                    <span class="thumb-title">CONCEPT</span>
-                </div>
-                <h5 class="font-weight-600 mt-3">
-                    Japanese chef carves food into incredible pieces of art
-                </h5>
-            </div>
-            <div class="col-sm-3  mb-5 mb-sm-2">
-                <div class="position-relative image-hover">
-                    <img src="../assets/images/politics/Politics_12.jpg" class="img-fluid" alt="world-news" />
-                    <span class="thumb-title">CONCEPT</span>
-                </div>
-                <h5 class="font-weight-600 mt-3">
-                    The Misanthrope Society: A Taipei bar for people who
-                </h5>
-            </div>
-            <div class="col-sm-3  mb-5 mb-sm-2">
-                <div class="position-relative image-hover">
-                    <img src="../assets/images/politics/Politics_18.jpg" class="img-fluid" alt="world-news" />
-                    <span class="thumb-title">CONCEPT</span>
-                </div>
-                <h5 class="font-weight-600 mt-3">
-                    From Pakistan to the Caribbean: Curry's journey
-                </h5>
-            </div>
-            <div class="col-sm-3  mb-5 mb-sm-2">
-                <div class="position-relative image-hover">
-                    <img src="../assets/images/politics/Politics_20.jpg" class="img-fluid" alt="world-news" />
-                    <span class="thumb-title">CONCEPT</span>
-                </div>
-                <h5 class="font-weight-600 mt-3">
-                    A hot springs where clothing is optional after dark
+                    Soi giá mẫu ốp iPhone bản giới hạn của Yeri...
                 </h5>
             </div>
         </div>
         <div class="row mb-4">
             <div class="col-sm-3  mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
-                    <img src="../assets/images/politics/Politics_7.jpg" class="img-fluid" alt="world-news" />
+                    <img src="../assets/images/business/Business_10.jpg" class="img-fluid" alt="world-news" />
                     <span class="thumb-title">CONCEPT</span>
                 </div>
                 <h5 class="font-weight-600 mt-3">
-                    The island country that gave Mayor Pete his name
+                    iPhone 13 bị lộ tất tần tật 6 màu sắc trên...
                 </h5>
             </div>
             <div class="col-sm-3  mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
-                    <img src="../assets/images/politics/Politics_11.jpg" class="img-fluid" alt="world-news" />
+                    <img src="../assets/images/business/Business_11.jpg" class="img-fluid" alt="world-news" />
                     <span class="thumb-title">CONCEPT</span>
                 </div>
                 <h5 class="font-weight-600 mt-3">
-                    Disney parks expand (good) vegan food options
+                    Sau chiếc iPad, Britney Spears lại khiến...
                 </h5>
             </div>
             <div class="col-sm-3  mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
-                    <img src="../assets/images/politics/Politics_15.jpg" class="img-fluid" alt="world-news" />
+                    <img src="../assets/images/business/Business_12.jpg" class="img-fluid" alt="world-news" />
                     <span class="thumb-title">CONCEPT</span>
                 </div>
                 <h5 class="font-weight-600 mt-3">
-                    A hot springs where clothing is optional after dark
+                    iPhone và hàng loạt sản phẩm Apple đang...
                 </h5>
             </div>
             <div class="col-sm-3  mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
-                    <img src="../assets/images/politics/Politics_17.jpg" class="img-fluid" alt="world-news" />
+                    <img src="../assets/images/business/Business_13.jpg" class="img-fluid" alt="world-news" />
                     <span class="thumb-title">CONCEPT</span>
                 </div>
                 <h5 class="font-weight-600 mt-3">
-                    A hot springs where clothing is optional after dark
+                    Tất tần tật tin đồn về iPhone 13 - Chiếc...
+                </h5>
+            </div>
+        </div>
+        <div class="row mb-4">
+            <div class="col-sm-3  mb-5 mb-sm-2">
+                <div class="position-relative image-hover">
+                    <img src="../assets/images/business/Business_14.jpg" class="img-fluid" alt="world-news" />
+                    <span class="thumb-title">CONCEPT</span>
+                </div>
+                <h5 class="font-weight-600 mt-3">
+                    Thêm 1 lý do để người dùng iPhone muốn...
+                </h5>
+            </div>
+            <div class="col-sm-3  mb-5 mb-sm-2">
+                <div class="position-relative image-hover">
+                    <img src="../assets/images/business/Business_15.jpg" class="img-fluid" alt="world-news" />
+                    <span class="thumb-title">CONCEPT</span>
+                </div>
+                <h5 class="font-weight-600 mt-3">
+                    Nóng: Apple chính thức công bố ngày ra mắt...
+                </h5>
+            </div>
+            <div class="col-sm-3  mb-5 mb-sm-2">
+                <div class="position-relative image-hover">
+                    <img src="../assets/images/business/Business_16.jpg" class="img-fluid" alt="world-news" />
+                    <span class="thumb-title">CONCEPT</span>
+                </div>
+                <h5 class="font-weight-600 mt-3">
+                    Chiếc điện thoại Android bảo mật nhất thế...
+                </h5>
+            </div>
+            <div class="col-sm-3  mb-5 mb-sm-2">
+                <div class="position-relative image-hover">
+                    <img src="../assets/images/business/Business_17.jpg" class="img-fluid" alt="world-news" />
+                    <span class="thumb-title">CONCEPT</span>
+                </div>
+                <h5 class="font-weight-600 mt-3">
+                    Cận kề ngày ra mắt, ngoài màu hồng iPhone...
                 </h5>
             </div>
         </div>
         <div class="row">
             <div class="col-sm-3  mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
-                    <img src="../assets/images/politics/Politics_9.jpg" class="img-fluid" alt="world-news" />
+                    <img src="../assets/images/business/Business_18.jpg" class="img-fluid" alt="world-news" />
                     <span class="thumb-title">CONCEPT</span>
                 </div>
                 <h5 class="font-weight-600 mt-3">
-                    Japanese chef carves food into incredible pieces of art
+                    Đây là 4 tính năng camera "xịn xò" sẽ xuất...
                 </h5>
             </div>
             <div class="col-sm-3  mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
-                    <img src="../assets/images/politics/Politics_13.jpg" class="img-fluid" alt="world-news" />
+                    <img src="../assets/images/business/Business_19.jpg" class="img-fluid" alt="world-news" />
                     <span class="thumb-title">CONCEPT</span>
                 </div>
                 <h5 class="font-weight-600 mt-3">
-                    The Misanthrope Society: A Taipei bar for people who
+                    Hình ảnh trên tay mô hình iPhone 13: Thiết...
                 </h5>
             </div>
             <div class="col-sm-3  mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
-                    <img src="../assets/images/politics/Politics_19.jpg" class="img-fluid" alt="world-news" />
+                    <img src="../assets/images/business/Business_20.jpg" class="img-fluid" alt="world-news" />
                     <span class="thumb-title">CONCEPT</span>
                 </div>
                 <h5 class="font-weight-600 mt-3">
-                    From Pakistan to the Caribbean: Curry's journey
+                    iPhone 13 sắp ra mắt sẽ có những tính năng...
                 </h5>
             </div>
             <div class="col-sm-3  mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
-                    <img src="../assets/images/politics/Politics_21.jpg" class="img-fluid" alt="world-news" />
+                    <img src="../assets/images/business/Business_21.jpg" class="img-fluid" alt="world-news" />
                     <span class="thumb-title">CONCEPT</span>
                 </div>
                 <h5 class="font-weight-600 mt-3">
-                    From Pakistan to the Caribbean: Curry's journey
+                    Hãy bán iPhone 12 của bạn ngay bây giờ nếu...
                 </h5>
             </div>
         </div>

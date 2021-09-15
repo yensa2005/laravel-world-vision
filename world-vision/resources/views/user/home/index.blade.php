@@ -248,9 +248,22 @@
                                 iPhone 13 bị lộ tất tần tật 6 màu sắc trên website đại lý bán lẻ
                             </h5>
                             <p class="text-color m-0 d-flex align-items-center">
-                                <span class="fs-10 mr-1">2 hours ago</span>
+                                <span class="fs-10 mr-1">2 giờ trước</span>
                                 <i class="mdi mdi-bookmark-outline mr-3"></i>
                                 <span class="fs-10 mr-1">126</span>
+                                <i class="mdi mdi-comment-outline"></i>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="border-bottom pt-4 pb-3">
+                            <h5 class="font-weight-600 mt-0 mb-0">
+                                Tài khoản phóng viên Australia "bay màu" sau khi chê sân Mỹ Đình...
+                            </h5>
+                            <p class="text-color m-0 d-flex align-items-center">
+                                <span class="fs-10 mr-1">1 phút trước</span>
+                                <i class="mdi mdi-bookmark-outline mr-3"></i>
+                                <span class="fs-10 mr-1">12</span>
                                 <i class="mdi mdi-comment-outline"></i>
                             </p>
                         </div>
@@ -261,40 +274,26 @@
                                 iPhone 13 bị lộ tất tần tật 6 màu sắc trên website đại lý bán lẻ
                             </h5>
                             <p class="text-color m-0 d-flex align-items-center">
-                                <span class="fs-10 mr-1">2 hours ago</span>
+                                <span class="fs-10 mr-1">4 phút trước</span>
                                 <i class="mdi mdi-bookmark-outline mr-3"></i>
-                                <span class="fs-10 mr-1">126</span>
+                                <span class="fs-10 mr-1">27</span>
                                 <i class="mdi mdi-comment-outline"></i>
                             </p>
                         </div>
                     </div>
                     <div class="col-sm-12">
-                        <div class="border-bottom pt-4 pb-3">
+                        <div class="pt-4">
                             <h5 class="font-weight-600 mt-0 mb-0">
-                                iPhone 13 bị lộ tất tần tật 6 màu sắc trên website đại lý bán lẻ
+                                Soi ứng dụng nhắn tin thường dùng, tiết lộ ngay bạn là...
                             </h5>
                             <p class="text-color m-0 d-flex align-items-center">
-                                <span class="fs-10 mr-1">2 hours ago</span>
+                                <span class="fs-10 mr-1">7 giờ trước</span>
                                 <i class="mdi mdi-bookmark-outline mr-3"></i>
-                                <span class="fs-10 mr-1">126</span>
+                                <span class="fs-10 mr-1">156</span>
                                 <i class="mdi mdi-comment-outline"></i>
                             </p>
                         </div>
                     </div>
-                    <div class="col-sm-12">
-                        <div class="pt-4 pb-3">
-                            <h5 class="font-weight-600 mt-0 mb-0">
-                                iPhone 13 bị lộ tất tần tật 6 màu sắc trên website đại lý bán lẻ
-                            </h5>
-                            <p class="text-color m-0 d-flex align-items-center">
-                                <span class="fs-10 mr-1">2 hours ago</span>
-                                <i class="mdi mdi-bookmark-outline mr-3"></i>
-                                <span class="fs-10 mr-1">126</span>
-                                <i class="mdi mdi-comment-outline"></i>
-                            </p>
-                        </div>
-                    </div>
-
                 </div>
             </div>
         </div>
