@@ -8,7 +8,8 @@
                     {{-- <li>30°C,Hue</li> --}}
                 </ul>
                 <div>
-                    <a class="navbar-brand" href="home"><img src="assets/images/logo-01.png" alt="" width="300"></a>
+                    <a class="navbar-brand" href="/home"><img src="{{ asset('assets/images/logo-01.png') }}" alt=""
+                            width="300"></a>
                 </div>
                 <div class="d-flex">
                     <ul class="navbar-right">

@@ -4,7 +4,7 @@
         <nav class="navbar navbar-expand-lg navbar-light">
             <div class="d-flex justify-content-between align-items-center navbar-top">
                 <ul class="navbar-left">
-                    <li>Wed, March 4, 2020</li>
+                    <li>30°C, Hue, 29-08-2021</li>
                     {{-- <li>30°C,Hue</li> --}}
                 </ul>
                 <div>
@@ -32,7 +32,7 @@
                                     <div
                                         class="card-body-items d-flex justify-content-between align-items-center px-3 pb-1">
                                         <div class="card-body-content mr-1">
-                                            <p class="fs-14 font-weight-bold m-0">Thông báo</p>
+                                            <p class="fs-14 font-weight-bold m-0">Tin nhắn</p>
                                         </div>
                                         <div class="card-body-content">
                                             <a class="fs-12 font-weight-bold m-0" href="">Tất cả</a>

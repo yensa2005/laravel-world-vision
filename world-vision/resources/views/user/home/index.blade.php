@@ -1,6 +1,6 @@
 @extends('layouts.uer_layout_home')
 
-@section('title', 'HomePage')
+@section('title', 'World Vision 2 Tek')
 
 {{-- Main Content --}}
 @section('content')

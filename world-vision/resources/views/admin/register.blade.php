@@ -1,6 +1,6 @@
 @extends('layouts.login_layout')
 
-@section('title', 'Đăng ký')
+@section('title', 'Đăng ký - World Vision 2 Tek')
 
 @section('content')
     <div class="d-lg-flex half justify-content-between">
