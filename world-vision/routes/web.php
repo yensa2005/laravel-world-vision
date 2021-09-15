@@ -64,6 +64,9 @@ Route::get('/news/detail-2', [PostController::class, 'getDetail2']);
 
 /* Route for admin */
 Route::get('/admin', [AdminController::class, 'getIndex']);
+Route::get('/dang-nhap', [AdminController::class, 'getLogin']);
+Route::get('/join', [AdminController::class, 'getRegister']);
+
 
 
 Route::get('/dashboard', function () {

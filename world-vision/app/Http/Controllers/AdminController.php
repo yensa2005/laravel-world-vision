@@ -30,4 +30,12 @@ class AdminController extends Controller
     {
         return view('admin.tag.tag');
     }
+    public function getLogin()
+    {
+        return view('admin.login');
+    }
+    public function getRegister()
+    {
+        return view('admin.register');
+    }
 }

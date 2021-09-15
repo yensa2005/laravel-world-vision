@@ -13,10 +13,10 @@
                 <div class="d-flex">
                     <ul class="navbar-right">
                         <li>
-                            <a href="#">Đăng nhập</a>
+                            <a href="/dang-nhap">Đăng nhập</a>
                         </li>
                         <li>
-                            <a href="#">Đăng ký</a>
+                            <a href="/join">Đăng ký</a>
                         </li>
                     </ul>
 

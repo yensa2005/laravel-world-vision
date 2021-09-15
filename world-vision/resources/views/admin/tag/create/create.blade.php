@@ -13,8 +13,8 @@
                 <label for="title">Đường dẫn</label>
                 <input type="text" class="form-control" id="title">
             </div>
-            <button type="submit" class="btn btn-primary">Làm mới</button>
-            <button type="submit" class="btn btn-primary">Thêm</button>
+            <a href="/admin/category/create"><button type="submit" class="btn btn-outline-dark">Làm mới</button></a>
+            <button type="submit" class="btn btn-dark">Thêm</button>
         </form>
     </div>
 @endsection

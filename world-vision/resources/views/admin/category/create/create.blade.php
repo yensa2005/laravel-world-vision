@@ -24,8 +24,8 @@
                     <option>Công nghệ vui</option>
                 </select>
             </div>
-            <button type="submit" class="btn btn-primary">Làm mới</button>
-            <button type="submit" class="btn btn-primary">Thêm</button>
+            <a href="/admin/category/create"><button type="submit" class="btn btn-outline-dark">Làm mới</button></a>
+            <button type="submit" class="btn btn-dark">Thêm</button>
         </form>
     </div>
     <style>
