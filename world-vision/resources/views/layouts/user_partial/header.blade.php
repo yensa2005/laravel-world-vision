@@ -8,16 +8,16 @@
                     {{-- <li>30°C,Hue</li> --}}
                 </ul>
                 <div>
-                    <a class="navbar-brand" href="/home"><img src="{{ asset('assets/images/logo-01.png') }}" alt=""
+                    <a class="navbar-brand" href="{{ route('home') }}"><img src="{{ asset('assets/images/logo-01.png') }}" alt=""
                             width="300"></a>
                 </div>
                 <div class="d-flex">
                     <ul class="navbar-right">
                         <li>
-                            <a href="/dang-nhap">Đăng nhập</a>
+                            <a href="{{ route('admin.dang-nhap') }}">Đăng nhập</a>
                         </li>
                         <li>
-                            <a href="/join">Đăng ký</a>
+                            <a href="{{ route('join') }}">Đăng ký</a>
                         </li>
                     </ul>
 

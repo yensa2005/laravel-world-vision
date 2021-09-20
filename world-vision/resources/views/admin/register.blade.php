@@ -9,10 +9,10 @@
             <div class="container">
                 <div class="row align-items-center justify-content-center">
                     <div class="col-md-7 mt-5">
-                        <a class="navbar-brand mb-5" href="/home"><img src="{{ asset('assets/images/logo-01.png') }}"
+                        <a class="navbar-brand mb-5" href="{{ route('home') }}"><img src="{{ asset('assets/images/logo-01.png') }}"
                                 alt="" width="200"></a>
                         <h3>Tham gia vào <b>World Vision 2 Tek</b></h3>
-                        <p class="fs-14 mb-4">Bạn đã có tài khoản? <a href="/dang-nhap">Đăng nhập</a></p>
+                        <p class="fs-14 mb-4">Bạn đã có tài khoản? <a href="{{ route('dang-nhap') }}">Đăng nhập</a></p>
                         <form action="#" method="post">
                             <div class="form-group first">
                                 <label for="username">Tên hiển thị</label>

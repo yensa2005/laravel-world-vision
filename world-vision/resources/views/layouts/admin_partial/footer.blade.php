@@ -5,15 +5,15 @@
     <div class="row">
         <div class="col-sm-12">
             <div class="d-flex justify-content-between align-items-center mt-5 mb-2">
-                <img src="{{asset('assets/images/logo.svg')}}" class="footer-logo" alt="" />
+                <img src="{{ asset('assets/images/logo.svg') }}" class="footer-logo" alt="" />
                 <ul class="navbar-nav d-lg-flex justify-content-center align-items-center"
                     style="flex-direction: inherit;">
-                    <li class="nav-item mx-4"><a class="nav-link text-dark" href="/home">Trang chủ</a></li>
-                    <li class="nav-item mx-4"><a class="nav-link text-dark" href="/faq">FAQ</a></li>
-                    <li class="nav-item mx-4"><a class="nav-link text-dark" href="/about-us">Về chúng
+                    <li class="nav-item mx-4"><a class="nav-link text-dark" href="{{ route('home') }}">Trang chủ</a></li>
+                    <li class="nav-item mx-4"><a class="nav-link text-dark" href="{{ route('news.faq') }}">FAQ</a></li>
+                    <li class="nav-item mx-4"><a class="nav-link text-dark" href="{{ route('news.about-us') }}">Về chúng
                             tôi</a>
                     </li>
-                    <li class="nav-item mx-2"><a class="nav-link text-dark" href="/contact">Liên hệ</a>
+                    <li class="nav-item mx-2"><a class="nav-link text-dark" href="{{ route('news.contact') }}">Liên hệ</a>
                     </li>
                 </ul>
                 <div class="d-flex justify-content-center footer-social">

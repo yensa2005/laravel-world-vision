@@ -24,7 +24,7 @@
                     <option>Công nghệ vui</option>
                 </select>
             </div>
-            <a href="/admin/category/create"><button type="submit" class="btn btn-outline-dark">Làm mới</button></a>
+            <a href="{{ route('admin.createCategory') }}"><button type="submit" class="btn btn-outline-dark">Làm mới</button></a>
             <button type="submit" class="btn btn-dark">Thêm</button>
         </form>
     </div>

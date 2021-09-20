@@ -9,7 +9,7 @@
             <div class="container">
                 <div class="row align-items-center justify-content-center">
                     <div class="col-md-7 mt-5">
-                        <a class="navbar-brand mb-5" href="/home"><img src="{{ asset('assets/images/logo-01.png') }}"
+                        <a class="navbar-brand mb-5" href="{{ route('home') }}"><img src="{{ asset('assets/images/logo-01.png') }}"
                                 alt="" width="200"></a>
                         <h3 class="font-weight-bold">Đăng nhập</h3>
                         <p class="fs-14 mb-4">Chào mừng bạn đã quay trở lại.</p>
@@ -33,7 +33,7 @@
                             </div>
 
                             <input type="submit" value="Đăng nhập" class="btn btn-block btn-dark">
-                            <p class="fs-14 mt-4 text-center">Bạn chưa có tài khoản? <a href="/join">Tham gia</a></p>
+                            <p class="fs-14 mt-4 text-center">Bạn chưa có tài khoản? <a href="{{ route('join') }}">Tham gia</a></p>
                         </form>
                     </div>
                 </div>

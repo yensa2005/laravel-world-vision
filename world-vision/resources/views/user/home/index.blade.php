@@ -25,7 +25,7 @@
                     Nếu bạn thường xuyên làm hành động này, hãy thay đổi ngay nếu không muốn iPhone chụp ảnh ngày càng xấu
                     đi.
                 </p>
-                <a href="/news/detail" class="font-weight-bold text-dark pt-2">Đọc thêm</a>
+                <a href="{{ route('news.detail') }}" class="font-weight-bold text-dark pt-2">Đọc thêm</a>
             </div>
             <div class="col-lg-3 col-sm-6 mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
@@ -39,7 +39,7 @@
                     Bạn đang chờ đợi iPhone 13 phiên bản màu hồng hay màu cam?Apple đã chính thức đăng tải thư mời sự
                     kiện...
                 </p>
-                <a href="/news/detail" class="font-weight-bold text-dark pt-2">Đọc thêm</a>
+                <a href="{{ route('news.detail') }}" class="font-weight-bold text-dark pt-2">Đọc thêm</a>
             </div>
             <div class="col-lg-3 col-sm-6 mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
@@ -53,7 +53,7 @@
                     Cư dân mạng đang xôn xao về một phiên bản màu cam đồng mới của iPhone 13 series, nhìn cái là muốn "chốt
                     đơn".
                 </p>
-                <a href="/news/detail" class="font-weight-bold text-dark pt-2">Đọc thêm</a>
+                <a href="{{ route('news.detail') }}" class="font-weight-bold text-dark pt-2">Đọc thêm</a>
             </div>
             <div class="col-lg-3 col-sm-6 mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
@@ -67,7 +67,7 @@
                     Tuy có số người theo dõi trên Instagram thấp hơn Lisa nhưng lượng tương tác của Jennie lại cực kì đáng
                     gờm.
                 </p>
-                <a href="/news/detail" class="font-weight-bold text-dark pt-2">Đọc thêm</a>
+                <a href="{{ route('news.detail') }}" class="font-weight-bold text-dark pt-2">Đọc thêm</a>
             </div>
         </div>
     </div>

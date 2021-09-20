@@ -8,7 +8,7 @@
         <div class="menu-sidebar mr-3">
             <div class="col-sm-12">
                 <div class="border-bottom pt-4 pb-1 pl-1">
-                    <a href="/admin" class="title">
+                    <a href="{{ route('admin') }}" class="title">
                         <h5 class="font-weight-400 mt-0 mb-0">
                             Dashboard
                         </h5>
@@ -17,7 +17,7 @@
             </div>
             <div class="col-sm-12">
                 <div class="border-bottom pt-4 pb-1 pl-1">
-                    <a href="/admin/profile" class="title">
+                    <a href="{{ route('admin.profile') }}" class="title">
                         <h5 class="font-weight-400 mt-0 mb-0">
                             Cá nhân
                         </h5>
@@ -26,7 +26,7 @@
             </div>
             <div class="col-sm-12">
                 <div class="border-bottom pt-4 pb-1 pl-1">
-                    <a href="/admin/post" class="title">
+                    <a href="{{ route('admin.post') }}" class="title">
                         <h5 class="font-weight-400 mt-0 mb-0">
                             Bài viết
                         </h5>
@@ -35,7 +35,7 @@
             </div>
             <div class="col-sm-12">
                 <div class="border-bottom pt-4 pb-1 pl-1">
-                    <a href="/admin/category" class="title">
+                    <a href="{{ route('admin.category') }}" class="title">
                         <h5 class="font-weight-400 mt-0 mb-0">
                             Chuyên mục
                         </h5>
@@ -44,7 +44,7 @@
             </div>
             <div class="col-sm-12">
                 <div class="border-bottom pt-4 pb-1 pl-1">
-                    <a href="/admin/tag" class="title">
+                    <a href="{{ route('admin.tag') }}" class="title">
                         <h5 class="font-weight-400 mt-0 mb-0">
                             Tag
                         </h5>
@@ -53,7 +53,7 @@
             </div>
             <div class="col-sm-12">
                 <div class="border-bottom pt-4 pb-1 pl-1">
-                    <a href="/admin/author" class="title">
+                    <a href="{{ route('admin.author') }}" class="title">
                         <h5 class="font-weight-400 mt-0 mb-0">
                             Quản lý người dùng
                         </h5>

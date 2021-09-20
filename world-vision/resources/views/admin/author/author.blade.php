@@ -15,7 +15,7 @@
                             <div class="col-sm-9 col-xs-12 text-right p-0">
                                 <div class="btn_group">
                                     <input type="text" class="form-control">
-                                    <a href="/admin/author"><button class="btn btn-default mx-2">Làm mới</button></a>
+                                    <a href="{{ route('admin.author') }}"><button class="btn btn-default mx-2">Làm mới</button></a>
                                     <div class="dropdown">
                                         <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
                                           Xuất file

@@ -15,8 +15,8 @@
                             <div class="col-sm-9 col-xs-12 text-right p-0">
                                 <div class="btn_group">
                                     <input type="text" class="form-control">
-                                    <a href="/admin/category"><button class="btn btn-default mx-2">Làm mới</button></a>
-                                    <a href="category/create"><button class="btn btn-default">Thêm</button></a>
+                                    <a href="{{ route('admin.category') }}"><button class="btn btn-default mx-2">Làm mới</button></a>
+                                    <a href="{{ route('admin.createCategory') }}"><button class="btn btn-default">Thêm</button></a>
                                 </div>
                             </div>
                         </div>

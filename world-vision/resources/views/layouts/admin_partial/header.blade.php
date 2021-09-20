@@ -8,7 +8,7 @@
                     {{-- <li>30°C,Hue</li> --}}
                 </ul>
                 <div>
-                    <a class="navbar-brand" href="/home"><img src="{{ asset('assets/images/logo-01.png') }}" alt=""
+                    <a class="navbar-brand" href="{{ route('home') }}"><img src="{{ asset('assets/images/logo-01.png') }}" alt=""
                             width="300"></a>
                 </div>
                 {{-- <div class="d-flex justify-content-between align-items-center">
@@ -193,10 +193,10 @@
                                 alt="" class="img-rounded mr-2" width="30" />Hoang Phuong
                         </a>
                         <div class="dropdown-menu dropdown-menu-right">
-                            <a class="fs-12 dropdown-item" href="/home">Cài đặt</a>
-                            <a class="fs-12 dropdown-item" href="/admin/profile">Quản lý tài khoản</a>
+                            <a class="fs-12 dropdown-item" href="{{ route('home') }}">Cài đặt</a>
+                            <a class="fs-12 dropdown-item" href="{{ route('admin.profile') }}">Quản lý tài khoản</a>
                             <hr class="m-1">
-                            <a class="fs-12 dropdown-item" href="/home">Đăng xuất</a>
+                            <a class="fs-12 dropdown-item" href="{{ route('home') }}">Đăng xuất</a>
                         </div>
                     </div>
                 </div>

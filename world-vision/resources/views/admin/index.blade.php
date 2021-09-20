@@ -15,10 +15,10 @@
                 </div>
                 <hr class="m-0">
                 <div class="card-item">
-                    <a href="/admin/post">
+                    <a href="{{ route('admin.post') }}">
                         <p class="view-detail">Xem thêm</p>
                     </a>
-                    <a href="/admin/post"><i class="bi bi-arrow-right-circle"></i></a>
+                    <a href="{{ route('admin.post') }}"><i class="bi bi-arrow-right-circle"></i></a>
                 </div>
             </div>
             <div class="card-items col-lg-3">
@@ -31,10 +31,10 @@
                 </div>
                 <hr class="m-0">
                 <div class="card-item">
-                    <a href="/admin/post">
+                    <a href="{{ route('admin.category') }}">
                         <p class="view-detail">Xem thêm</p>
                     </a>
-                    <a href="/admin/post"><i class="bi bi-arrow-right-circle"></i></a>
+                    <a href="{{ route('admin.category') }}"><i class="bi bi-arrow-right-circle"></i></a>
                 </div>
 
             </div>
@@ -48,10 +48,10 @@
                 </div>
                 <hr class="m-0">
                 <div class="card-item">
-                    <a href="/admin/post">
+                    <a href="{{ route('admin.tag') }}">
                         <p class="view-detail">Xem thêm</p>
                     </a>
-                    <a href="/admin/post"><i class="bi bi-arrow-right-circle"></i></a>
+                    <a href="{{ route('admin.tag') }}"><i class="bi bi-arrow-right-circle"></i></a>
                 </div>
 
             </div>
@@ -65,10 +65,10 @@
                 </div>
                 <hr class="m-0">
                 <div class="card-item">
-                    <a href="/admin/post">
+                    <a href="{{ route('admin.author') }}">
                         <p class="view-detail">Xem thêm</p>
                     </a>
-                    <a href="/admin/post"><i class="bi bi-arrow-right-circle"></i></a>
+                    <a href="{{ route('admin.author') }}"><i class="bi bi-arrow-right-circle"></i></a>
                 </div>
 
             </div>
@@ -77,7 +77,7 @@
             <div class="card-profile col-lg-5">
                 <div class="card-item">
                     <p class="card-view-detail">Người dùng</p>
-                    <a href="/admin/author/list"><i class="bi bi-arrow-right-circle"></i></a>
+                    <a href="{{ route('admin.author') }}"><i class="bi bi-arrow-right-circle"></i></a>
                 </div>
                 <hr class="m-0">
                 <div class="card-item">
@@ -163,7 +163,7 @@
             <div class="card-post col-lg-7">
                 <div class="card-item">
                     <p class="card-view-detail">Bài viết</p>
-                    <a href="/admin/author/list"><i class="bi bi-arrow-right-circle"></i></a>
+                    <a href="{{ route('admin.post') }}"><i class="bi bi-arrow-right-circle"></i></a>
                 </div>
                 <hr class="m-0">
                 <div class="card-item">

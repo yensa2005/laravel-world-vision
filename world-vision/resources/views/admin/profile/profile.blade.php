@@ -26,7 +26,7 @@
                 </div>
             </div>
         </div>
-        <a href="profile/edit" class="d-flex justify-content-center my-4 text-dark"><i
+        <a href="{{ route('admin.editProfile') }}" class="d-flex justify-content-center my-4 text-dark"><i
                 class="bi bi-pencil-square mr-2"></i>Cập nhật trang cá nhân</a>
         <div class="pb-3">
             <b>Danh sách bài viết</b>

@@ -11,7 +11,7 @@
                         Lộ diện concept iPhone 13 màu trắng đẹp mãn nhãn, nhìn là muốn "chốt đơn" ngay!
                     </h1>
                     <div class="text-center">
-                        <a href="/concept" class="btn btn-dark font-weight-bold mb-4">Concept</a>
+                        <a href="{{ route('news.concept') }}" class="btn btn-dark font-weight-bold mb-4">Concept</a>
                     </div>
                     <p class="fs-15 d-flex justify-content-center align-items-center m-0">
                         <img src="../assets/images/dashboard/Profile_1.jpg" alt="" class="img-xs img-rounded mr-2" />
