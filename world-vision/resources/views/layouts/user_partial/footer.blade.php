@@ -8,12 +8,12 @@
                 <img src="assets/images/logo.svg" class="footer-logo" alt="" />
                 <ul class="navbar-nav d-lg-flex justify-content-center align-items-center"
                     style="flex-direction: inherit;">
-                    <li class="nav-item mx-4"><a class="nav-link text-dark" href="{{ route('home') }}">Trang chủ</a></li>
-                    <li class="nav-item mx-4"><a class="nav-link text-dark" href="{{ route('news.faq') }}">FAQ</a></li>
-                    <li class="nav-item mx-4"><a class="nav-link text-dark" href="{{ route('news.about-us') }}">Về chúng
+                    <li class="nav-item mx-4"><a class="nav-link text-dark" href="/home">Trang chủ</a></li>
+                    <li class="nav-item mx-4"><a class="nav-link text-dark" href="/faq">Câu hỏi thường gặp</a></li>
+                    <li class="nav-item mx-4"><a class="nav-link text-dark" href="/about-us">Về chúng
                             tôi</a>
                     </li>
-                    <li class="nav-item mx-2"><a class="nav-link text-dark" href="{{ route('news.contact') }}">Liên hệ</a>
+                    <li class="nav-item mx-2"><a class="nav-link text-dark" href="/contact">Liên hệ</a>
                     </li>
                 </ul>
                 <div class="d-flex justify-content-center footer-social">
@@ -32,16 +32,15 @@
         <div class="col-sm-12">
             <div class="d-lg-flex justify-content-between align-items-center border-top mt-4 footer-bottom">
                 <ul class="footer-horizontal-menu">
-                    <li><a href="#">Terms of Use.</a></li>
-                    <li><a href="#">Privacy Policy.</a></li>
-                    <li><a href="#">Accessibility & CC.</a></li>
-                    <li><a href="#">AdChoices.</a></li>
-                    <li><a href="#">Advertise with us Transcripts.</a></li>
-                    <li><a href="#">License.</a></li>
-                    <li><a href="#">Sitemap</a></li>
+                    <li><a href="#">Akina Anti Aging Center</a></li>
+                    <li><a href="#">Akina Anti Acne Center</a></li>
+                    <li><a href="#">Akina Cosmetic & Healthcare</a></li>
+                    <li><a href="#">Akina Clinic</a></li>
+                    <li><a href="#">Akina Center Đà Nẵng</a></li>
+
                 </ul>
                 <p class="font-weight-medium">
-                    © 2021 .All Rights Reserved.
+                    © 2021 .AKINA CENTER.
                 </p>
             </div>
         </div>
@@ -56,7 +55,7 @@
         }
 
         .mdi-icon:hover {
-            color: #0a62fb;
+            color: #d4aa51;
         }
 
     </style>

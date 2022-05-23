@@ -12,25 +12,25 @@
                 </button>
             </li>
             <li class="nav-item active">
-                <a class="nav-link active" href="{{ route('home') }}>Trang chủ</a>
+                <a class="nav-link active" href="/home">Trang chủ</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="{{ route('news.mobile') }}">Mobile</a>
+                <a class="nav-link" href="/mobile">Trẻ hóa da</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="{{ route('news.concept') }}">Concept</a>
+                <a class="nav-link" href="/concept">Điều trị nám</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="{{ route('news.ung-dung') }}">Ứng dụng</a>
+                <a class="nav-link" href="/ung-dung">Điều trị mụn và sẹo</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="{{ route('news.thu-thuat') }}">Thủ thuật</a>
+                <a class="nav-link" href="/thu-thuat">Kiến thức da liễu</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="{{ route('news.cong-nghe-vui') }}">Công nghệ vui</a>
+                <a class="nav-link" href="/cong-nghe-vui">Tin tức sự kiện</a>
             </li>
             <li>
-                <input class="search-nav" type="text" name="search" placeholder="Search..">
+                <input class="search-nav" type="text" name="search" placeholder="Tìm kiếm..">
                 <i class="bi bi-search"></i>
             </li>
         </ul>

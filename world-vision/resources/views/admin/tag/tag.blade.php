@@ -15,8 +15,8 @@
                             <div class="col-sm-9 col-xs-12 text-right p-0">
                                 <div class="btn_group">
                                     <input type="text" class="form-control">
-                                    <a href="{{ route('admin.tag') }}"><button class="btn btn-default mx-2">Làm mới</button></a>
-                                    <a href="{{ route('admin.createTag') }}"><button class="btn btn-default">Thêm</button></a>
+                                    <a href="/admin/tag"><button class="btn btn-default mx-2">Làm mới</button></a>
+                                    <a href="tag/create"><button class="btn btn-default">Thêm</button></a>
                                 </div>
                             </div>
                         </div>
@@ -39,8 +39,8 @@
                                     <th> <label class="customcheckbox"> <input type="checkbox" class="listCheckbox"> <span
                                                 class="checkmark"></span> </label> </th>
                                     <td>1</td>
-                                    <td>đánh giá</td>
-                                    <td>danh-gia</td>
+                                    <td>mụn nang</td>
+                                    <td>mun-nang</td>
                                     <td>34</td>
                                     <td>
                                         <ul class="action-list">
@@ -53,8 +53,8 @@
                                     <th> <label class="customcheckbox"> <input type="checkbox" class="listCheckbox"> <span
                                                 class="checkmark"></span> </label> </th>
                                     <td>2</td>
-                                    <td>windown 11</td>
-                                    <td>windown-11</td>
+                                    <td>sóng rf</td>
+                                    <td>song-rf</td>
                                     <td>834</td>
                                     <td>
                                         <ul class="action-list">
@@ -67,8 +67,8 @@
                                     <th> <label class="customcheckbox"> <input type="checkbox" class="listCheckbox"> <span
                                                 class="checkmark"></span> </label> </th>
                                     <td>3</td>
-                                    <td>google</td>
-                                    <td>google</td>
+                                    <td>huế</td>
+                                    <td>hue</td>
                                     <td>334</td>
                                     <td>
                                         <ul class="action-list">
@@ -81,8 +81,8 @@
                                     <th> <label class="customcheckbox"> <input type="checkbox" class="listCheckbox"> <span
                                                 class="checkmark"></span> </label> </th>
                                     <td>4</td>
-                                    <td>giới thiệu</td>
-                                    <td>gioi-thieu</td>
+                                    <td>peel da</td>
+                                    <td>peel-da</td>
                                     <td>3544</td>
                                     <td>
                                         <ul class="action-list">
@@ -95,8 +95,8 @@
                                     <th> <label class="customcheckbox"> <input type="checkbox" class="listCheckbox"> <span
                                                 class="checkmark"></span> </label> </th>
                                     <td>5</td>
-                                    <td>telegram</td>
-                                    <td>telegram</td>
+                                    <td>sẹo rỗ</td>
+                                    <td>seo-ro</td>
                                     <td>3234</td>
                                     <td>
                                         <ul class="action-list">

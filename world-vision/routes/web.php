@@ -12,60 +12,60 @@ use App\Http\Controllers\TagController;;
 
 /* Route for menu */
 
-Route::get('/home', [PagesController::class, 'getIndex'])->name('home');
+Route::get('/home', [PagesController::class, 'getIndex']);
 
 Route::get('/mobile', function () {
-    return view('user.news.mobile')->name('news.mobile');
+    return view('user.news.mobile');
 });
 Route::get('/concept', function () {
-    return view('user.news.concept')->name('news.concept');
+    return view('user.news.concept');
 });
 Route::get('/ung-dung', function () {
-    return view('user.news.ung-dung')->name('news.ung-dung');
+    return view('user.news.ung-dung');
 });
 Route::get('/thu-thuat', function () {
-    return view('user.news.thu-thuat')->name('news.thu-thuat');
+    return view('user.news.thu-thuat');
 });
 Route::get('/cong-nghe-vui', function () {
-    return view('user.news.cong-nghe-vui')->name('news.cong-nghe-vui');
+    return view('user.news.cong-nghe-vui');
 });
 Route::get('/contact', function () {
-    return view('user.news.contact ')->name('news.contact');
+    return view('user.news.contact ');
 });
 Route::get('/about-us', function () {
-    return view('user.news.about-us')->name('news.about-us');
+    return view('user.news.about-us');
 });
 Route::get('/faq', function () {
-    return view('user.news.faq')->name('news.faq');
+    return view('user.news.faq');
 });
 
 /* Route for admin */
 Route::group(['prefix' => 'admin'], function () {
     //Profile
-    Route::get('profile', [AdminController::class, 'getProfile'])->name('admin.profile');
-    Route::get('profile/edit', [ProfileController::class, 'editProfile'])->name('admin.editProfile');
+    Route::get('profile', [AdminController::class, 'getProfile']);
+    Route::get('profile/edit', [ProfileController::class, 'editProfile']);
     //Post
-    Route::get('post', [AdminController::class, 'getPost'])->name('admin.post');
-    Route::get('post/create', [PostController::class, 'createPost'])->name('admin.createPost');
+    Route::get('post', [AdminController::class, 'getPost']);
+    Route::get('post/create', [PostController::class, 'createPost']);
     //Author
-    Route::get('author', [AdminController::class, 'getAuthor'])->name('admin.author');
+    Route::get('author', [AdminController::class, 'getAuthor']);
     //Category
-    Route::get('category', [AdminController::class, 'getCategory'])->name('admin.category');
-    Route::get('category/create', [CategoryController::class, 'createCategory'])->name('admin.createCategory');
+    Route::get('category', [AdminController::class, 'getCategory']);
+    Route::get('category/create', [CategoryController::class, 'createCategory']);
     //Tag
-    Route::get('tag', [AdminController::class, 'getTag'])->name('admin.tag');
-    Route::get('tag/create', [TagController::class, 'createTag'])->name('admin.createTag');
+    Route::get('tag', [AdminController::class, 'getTag']);
+    Route::get('tag/create', [TagController::class, 'createTag']);
 });
 
 /* Route for detail */
-Route::get('/news/detail', [PostController::class, 'getDetail'])->name('news.detail');
+Route::get('/news/detail', [PostController::class, 'getDetail']); //main
 Route::get('/news/detail-2', [PostController::class, 'getDetail2']);
 
 
 /* Route for admin */
-Route::get('/admin', [AdminController::class, 'getIndex'])->name('admin');
-Route::get('/dang-nhap', [AdminController::class, 'getLogin'])->name('dang-nhap');
-Route::get('/join', [AdminController::class, 'getRegister'])->name('join');
+Route::get('/admin', [AdminController::class, 'getIndex']);
+Route::get('/dang-nhap', [AdminController::class, 'getLogin']);
+Route::get('/join', [AdminController::class, 'getRegister']);
 
 
 

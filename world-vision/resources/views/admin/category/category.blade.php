@@ -15,8 +15,8 @@
                             <div class="col-sm-9 col-xs-12 text-right p-0">
                                 <div class="btn_group">
                                     <input type="text" class="form-control">
-                                    <a href="{{ route('admin.category') }}"><button class="btn btn-default mx-2">Làm mới</button></a>
-                                    <a href="{{ route('admin.createCategory') }}"><button class="btn btn-default">Thêm</button></a>
+                                    <a href="/admin/category"><button class="btn btn-default mx-2">Làm mới</button></a>
+                                    <a href="category/create"><button class="btn btn-default">Thêm</button></a>
                                 </div>
                             </div>
                         </div>
@@ -40,8 +40,8 @@
                                     <th> <label class="customcheckbox"> <input type="checkbox" class="listCheckbox"> <span
                                                 class="checkmark"></span> </label> </th>
                                     <td>1</td>
-                                    <td>Mobile</td>
-                                    <td>mobile</td>
+                                    <td>Trẻ hóa da</td>
+                                    <td>tre-hoa-da</td>
                                     <td></td>
                                     <td>34</td>
                                     <td>
@@ -55,8 +55,8 @@
                                     <th> <label class="customcheckbox"> <input type="checkbox" class="listCheckbox"> <span
                                                 class="checkmark"></span> </label> </th>
                                     <td>2</td>
-                                    <td>Concept</td>
-                                    <td>concept</td>
+                                    <td>Điều trị nám</td>
+                                    <td>dieu-tri-nam</td>
                                     <td></td>
                                     <td>342</td>
                                     <td>
@@ -70,8 +70,8 @@
                                     <th> <label class="customcheckbox"> <input type="checkbox" class="listCheckbox"> <span
                                                 class="checkmark"></span> </label> </th>
                                     <td>3</td>
-                                    <td>Ứng dụng</td>
-                                    <td>ung-dung</td>
+                                    <td>Điều trị mụn và sẹo</td>
+                                    <td>dieu-tri-mun-va-seo</td>
                                     <td></td>
                                     <td>786</td>
                                     <td>
@@ -85,8 +85,8 @@
                                     <th> <label class="customcheckbox"> <input type="checkbox" class="listCheckbox"> <span
                                                 class="checkmark"></span> </label> </th>
                                     <td>4</td>
-                                    <td>Thủ thuật</td>
-                                    <td>thu-thuat</td>
+                                    <td>Kiến thức làm đẹp</td>
+                                    <td>kien-thuc-lam-dep</td>
                                     <td></td>
                                     <td>237</td>
                                     <td>
@@ -100,8 +100,8 @@
                                     <th> <label class="customcheckbox"> <input type="checkbox" class="listCheckbox"> <span
                                                 class="checkmark"></span> </label> </th>
                                     <td>5</td>
-                                    <td>Công nghệ vui</td>
-                                    <td>cong-nghe-vui</td>
+                                    <td>Tin tức sự kiện</td>
+                                    <td>tin-tuc-su-kien</td>
                                     <td></td>
                                     <td>12</td>
                                     <td>

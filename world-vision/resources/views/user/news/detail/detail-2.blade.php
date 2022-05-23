@@ -73,7 +73,7 @@
                         src="https://genk.mediacdn.vn/139269124445442048/2021/8/27/3-1630077465680999533084.png"
                         alt="..." /></figure>
                 <hr class="my-3">
-                <a class="badge bg-secondary text-white text-decoration-none link-light" href="#!">#ứng dụng</a>
+                <a class="badge bg-secondary text-white text-decoration-none link-light" href="#!">#Điều trị mụn và sẹo</a>
                 <a class="badge bg-secondary text-white text-decoration-none link-light" href="#!">#apple</a>
                 <a class="badge bg-secondary text-white text-decoration-none link-light" href="#!">#gián điệp hai mang</a>
                 <a class="badge bg-secondary text-white text-decoration-none link-light" href="#!">#Andrey Shumeyko</a>

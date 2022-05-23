@@ -17,14 +17,14 @@
                 <label for="category">Thuộc chuyên mục</label>
                 <select class="dropdown form-control" id="sel1" name="sellist1">
                     <option value="" disabled selected>Chuyên mục cha</option>
-                    <option>Mobile</option>
-                    <option>Concept</option>
-                    <option>Ứng dụng</option>
-                    <option>Thủ thuật</option>
-                    <option>Công nghệ vui</option>
+                    <option>Trẻ hóa da</option>
+                    <option>Điều trị nám</option>
+                    <option>Điều trị mụn và sẹo</option>
+                    <option>Kiến thức da liễu</option>
+                    <option>Tin tức sự kiện</option>
                 </select>
             </div>
-            <a href="{{ route('admin.createCategory') }}"><button type="submit" class="btn btn-outline-dark">Làm mới</button></a>
+            <a href="/admin/category/create"><button type="submit" class="btn btn-outline-dark">Làm mới</button></a>
             <button type="submit" class="btn btn-dark">Thêm</button>
         </form>
     </div>
@@ -54,6 +54,7 @@
         .dropdown a:hover {
             background-color: #ddd;
         }
+
         .dropdown {
             padding-top: 0;
             padding-bottom: 0;

@@ -8,7 +8,7 @@
             <div class="rela-block profile-card">
                 <div class="profile-pic" id="profile_pic"></div>
                 <div class="rela-block profile-name-container">
-                    Hoang Phuong
+                    Yen Sa
                 </div>
                 <div class="d-flex justify-content-center footer-social">
                     <ul class="social-media">
@@ -26,7 +26,7 @@
                 </div>
             </div>
         </div>
-        <a href="{{ route('admin.editProfile') }}" class="d-flex justify-content-center my-4 text-dark"><i
+        <a href="profile/edit" class="d-flex justify-content-center my-4 text-dark"><i
                 class="bi bi-pencil-square mr-2"></i>Cập nhật trang cá nhân</a>
         <div class="pb-3">
             <b>Danh sách bài viết</b>
@@ -35,37 +35,37 @@
             <div class="col-sm-3  mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
                     <img src="../assets/images/business/Business_18.jpg" class="img-fluid" alt="world-news" />
-                    <span class="thumb-title">CÔNG NGHỆ VUI</span>
+                    <span class="thumb-title">KIẾN THỨC DA LIỄU</span>
                 </div>
                 <h5 class="font-weight-600 mt-3">
-                    Đây là 4 tính năng camera "xịn xò" sẽ xuất...
+                    Trung tâm điều trị mụn cho nam hiệu quả tại Huế
                 </h5>
             </div>
             <div class="col-sm-3 mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
                     <img src="../assets/images/dashboard/star-magazine-14.jpg" class="img-fluid" alt="world-news" />
-                    <span class="thumb-title">CONCEPT</span>
+                    <span class="thumb-title">ĐIỀU TRỊ MỤN VÀ SẸO</span>
                 </div>
                 <h5 class="font-weight-600 mt-3">
-                    Lộ diện mô hình MacBook Pro với khay chứa bút cảm ứng
+                    Điều Trị Mụn Nang Tại Nhà Được Không?
                 </h5>
             </div>
             <div class="col-sm-3  mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
                     <img src="../assets/images/business/Business_20.jpg" class="img-fluid" alt="world-news" />
-                    <span class="thumb-title">ỨNG DỤNG</span>
+                    <span class="thumb-title">ĐIỀU TRỊ MỤN VÀ SẸO</span>
                 </div>
                 <h5 class="font-weight-600 mt-3">
-                    iPhone 13 sắp ra mắt sẽ có những tính năng...
+                    Bác Sĩ Cao Nguyên Giải Đáp Thắc Mắc Điều Trị Sẹo Rỗ
                 </h5>
             </div>
             <div class="col-sm-3  mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
                     <img src="../assets/images/business/Business_21.jpg" class="img-fluid" alt="world-news" />
-                    <span class="thumb-title">THỦ THUẬT</span>
+                    <span class="thumb-title">KIẾN THỨC DA LIỄU</span>
                 </div>
                 <h5 class="font-weight-600 mt-3">
-                    Hãy bán iPhone 12 của bạn ngay bây giờ nếu...
+                    Liệu pháp căng chỉ collagen trẻ hóa phù hợp với ai?
                 </h5>
             </div>
         </div>
@@ -73,28 +73,28 @@
             <div class="col-sm-3  mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
                     <img src="../assets/images/dashboard/star-magazine-9.jpg" class="img-fluid" alt="world-news" />
-                    <span class="thumb-title">THỦ THUẬT</span>
+                    <span class="thumb-title">TRẺ HÓA DA</span>
                 </div>
                 <h5 class="font-weight-600 mt-3">
-                    Thủ thuật đơn giản này sẽ giúp iPhone của bạn tránh bị "đột tử" khi cạn pin
+                    Sóng RF tác dụng trẻ hóa da như thế nào?
                 </h5>
             </div>
             <div class="col-sm-3 mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
                     <img src="../assets/images/dashboard/star-magazine-10.jpg" class="img-fluid" alt="world-news" />
-                    <span class="thumb-title">ỨNG DỤNG</span>
+                    <span class="thumb-title">ĐIỀU TRỊ MỤN VÀ SẸO</span>
                 </div>
                 <h5 class="font-weight-600 mt-3">
-                    Google Maps buộc người dùng phải chia sẻ dữ liệu di chuyển để có thể dùng...
+                    Peel da là gì? Có nên thực hiện peel da hay không?
                 </h5>
             </div>
             <div class="col-sm-3 mb-5 mb-sm-2">
                 <div class="position-relative image-hover">
                     <img src="../assets/images/dashboard/star-magazine-11.jpg" class="img-fluid" alt="world-news" />
-                    <span class="thumb-title">CONCEPT</span>
+                    <span class="thumb-title">ĐIỀU TRỊ MỤN VÀ SẸO</span>
                 </div>
                 <h5 class="font-weight-600 mt-3">
-                    Apple Watch Series 7 sẽ có hai kích thước 41mm và 45mm
+                    Điều trị mụn tại Huế theo phác đồ của bác sĩ Cao Nguyên
                 </h5>
             </div>
             <div class="col-sm-3 mb-5 mb-sm-2">
@@ -102,8 +102,7 @@
                     <img src="../assets/images/dashboard/star-magazine-12.jpg" class="img-fluid" alt="world-news" />
                     <span class="thumb-title">MOBILE</span>
                 </div>
-                <h5 class="font-weight-600 mt-3">
-                    Nóng: Apple chính thức công bố ngày ra mắt iPhone 13
+                <h5 5 ưu điểm của trẻ hóa da bằng liệu pháp căng chỉ full face
                 </h5>
             </div>
         </div>
@@ -209,7 +208,7 @@
         }
 
         .mdi-icon:hover {
-            color: #0a62fb;
+            color: #d4aa51;
         }
 
     </style>

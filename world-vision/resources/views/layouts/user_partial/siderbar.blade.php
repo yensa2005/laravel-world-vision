@@ -7,7 +7,7 @@
                     <span class="fs-12 text-muted">Uyen Phuong</span>
                 </div>
                 <p class="fs-14 m-0 font-weight-medium line-height-sm">
-                    iPhone 13 rò rỉ concept toàn bộ 6 màu sắc: màu hồng...
+                    Trung tâm điều trị mụn cho nam hiệu quả tại Huế...
                 </p>
             </div>
         </div>
@@ -18,7 +18,7 @@
                     <span class="fs-12 text-muted">Hong Cao</span>
                 </div>
                 <p class="fs-14 m-0 font-weight-medium line-height-sm">
-                    Soi chiếc ốp iPhone cực xinh của Hyeri, giá không...
+                    Điều Trị Mụn Nang Tại Nhà Được Không?...
                 </p>
             </div>
         </div>
@@ -31,18 +31,18 @@
                     <span class="fs-12 text-muted">Xuan Thao</span>
                 </div>
                 <p class="fs-14 m-0 font-weight-medium line-height-sm">
-                    Top 5 MV của nữ nghệ sĩ solo view khủng nhất YouTube...
+                    Sóng RF tác dụng trẻ hóa da như thế nào?...
                 </p>
             </div>
         </div>
         <div class="col-sm-6">
             <div class="pt-4 pb-4 border-bottom">
-                <div class="d-flex align-items-center pb-2">
+                <div class="d-fzlex align-items-center pb-2">
                     <img src="assets/images/dashboard/Profile_4.jpg" class="img-xs img-rounded mr-2" alt="thumb" />
                     <span class="fs-12 text-muted">Tien Dung</span>
                 </div>
                 <p class="fs-14 m-0 font-weight-medium line-height-sm">
-                    Bị giới hạn giờ chơi game, trẻ em Trung Quốc lên mạng...
+                    Peel da là gì? Có nên thực hiện peel da hay không?...
                 </p>
             </div>
         </div>
@@ -55,7 +55,7 @@
                     <span class="fs-12 text-muted">Nhan Hoang</span>
                 </div>
                 <p class="fs-14 m-0 font-weight-medium line-height-sm">
-                    Soi smartphone của Ronaldo, bất ngờ vì không phải...
+                    Điều trị mụn tại Huế theo phác đồ của bác sĩ Cao Nguyên...
                 </p>
             </div>
         </div>
@@ -66,7 +66,7 @@
                     <span class="fs-12 text-muted">Pham Long</span>
                 </div>
                 <p class="fs-14 m-0 font-weight-medium line-height-sm">
-                    BLACKPINK kiếm được bao nhiêu tiền từ YouTube...
+                    Liệu pháp căng chỉ collagen trẻ hóa phù hợp với ai?...
                 </p>
             </div>
         </div>

@@ -15,8 +15,8 @@
                             <div class="col-sm-9 col-xs-12 text-right p-0">
                                 <div class="btn_group">
                                     <input type="text" class="form-control">
-                                    <a href="{{ route('admin.post') }}"><button class="btn btn-default mx-2">Làm mới</button></a>
-                                    <a href="{{ route('admin.createPost') }}"><button class="btn btn-default">Thêm</button></a>
+                                    <a href="/admin/post"><button class="btn btn-default mx-2">Làm mới</button></a>
+                                    <a href="post/create"><button class="btn btn-default">Thêm</button></a>
                                 </div>
                             </div>
                         </div>
@@ -44,11 +44,11 @@
                                     <th> <label class="customcheckbox"> <input type="checkbox" class="listCheckbox"> <span
                                                 class="checkmark"></span> </label> </th>
                                     <td>1</td>
-                                    <td>Thử màn hình cảm ứng trên Windows 11</td>
+                                    <td>Điều Trị Mụn Nang Tại Nhà Được Không?</td>
                                     <td class="icon-on"><i class="bi bi-check-square-fill pr-2"></i></td>
                                     <td class="icon-off"><i class="bi bi-x-square-fill pr-2"></i></td>
-                                    <td>đánh giá, windows 11</td>
-                                    <td>Ứng dụng</td>
+                                    <td>mụn nang</td>
+                                    <td>Điều trị mụn và sẹo</td>
                                     <td>34</td>
                                     <td>20:49:51 14/05/2021</td>
                                     <td><img src="../assets/images/admin/post/win11.jpg" class="img-fluid"
@@ -64,11 +64,11 @@
                                     <th> <label class="customcheckbox"> <input type="checkbox" class="listCheckbox"> <span
                                                 class="checkmark"></span> </label> </th>
                                     <td>2</td>
-                                    <td>Hi hữu: Một ứng dụng của Google có thể khiến nhiều người mất việc</td>
+                                    <td>Bác Sĩ Cao Nguyên Giải Đáp Thắc Mắc Điều Trị Sẹo Rỗ</td>
                                     <td class="icon-on"><i class="bi bi-check-square-fill pr-2"></i></td>
                                     <td class="icon-on"><i class="bi bi-check-square-fill pr-2"></i></td>
-                                    <td>google</td>
-                                    <td>Ứng dụng</td>
+                                    <td>Cao nguyên, sẹo rỗ</td>
+                                    <td>Điều trị mụn và sẹo</td>
                                     <td>465875</td>
                                     <td>20:49:51 14/05/2021</td>
                                     <td><img src="../assets/images/admin/post/google.jpg" class="img-fluid"
@@ -84,11 +84,11 @@
                                     <th> <label class="customcheckbox"> <input type="checkbox" class="listCheckbox"> <span
                                                 class="checkmark"></span> </label> </th>
                                     <td>3</td>
-                                    <td>Telegram vừa ra mắt một loạt tính năng mới</td>
+                                    <td>Sóng RF tác dụng trẻ hóa da như thế nào?</td>
                                     <td class="icon-off"><i class="bi bi-x-square-fill pr-2"></i></td>
                                     <td class="icon-off"><i class="bi bi-x-square-fill pr-2"></i></td>
-                                    <td>giới thiệu, telegram</td>
-                                    <td>Ứng dụng</td>
+                                    <td>sóng rf</td>
+                                    <td>Trẻ hóa da</td>
                                     <td>834</td>
                                     <td>20:49:51 14/05/2021</td>
                                     <td><img src="../assets/images/admin/post/telegram.jpg" class="img-fluid"
@@ -104,12 +104,11 @@
                                     <th> <label class="customcheckbox"> <input type="checkbox" class="listCheckbox"> <span
                                                 class="checkmark"></span> </label> </th>
                                     <td>4</td>
-                                    <td>Google Maps buộc người dùng phải chia sẻ dữ liệu di chuyển để có thể dùng tính năng
-                                        dẫn đường trực tiếp</td>
+                                    <td>Trung tâm điều trị mụn cho nam hiệu quả tại Huế</td>
                                     <td class="icon-on"><i class="bi bi-check-square-fill pr-2"></i></td>
                                     <td class="icon-off"><i class="bi bi-x-square-fill pr-2"></i></td>
-                                    <td>map</td>
-                                    <td>Ứng dụng</td>
+                                    <td>mụn, huế</td>
+                                    <td>Kiến thức da liễu</td>
                                     <td>35648</td>
                                     <td>20:49:51 14/05/2021</td>
                                     <td><img src="../assets/images/admin/post/map.jpg" class="img-fluid" width="300" />
@@ -125,11 +124,11 @@
                                     <th> <label class="customcheckbox"> <input type="checkbox" class="listCheckbox"> <span
                                                 class="checkmark"></span> </label> </th>
                                     <td>5</td>
-                                    <td>Facebook vinh danh 9 hacker Việt Nam vì góp phần thông báo "lỗ hổng" ứng dụng</td>
+                                    <td>Peel da là gì? Có nên thực hiện peel da hay không?</td>
                                     <td class="icon-on"><i class="bi bi-check-square-fill pr-2"></i></td>
                                     <td class="icon-off"><i class="bi bi-x-square-fill pr-2"></i></td>
-                                    <td>facebook</td>
-                                    <td>Ứng dụng</td>
+                                    <td>peel da</td>
+                                    <td>Điều trị mụn và sẹo</td>
                                     <td>34</td>
                                     <td>20:49:51 14/05/2021</td>
                                     <td><img src="../assets/images/admin/post/facebook.jpg" class="img-fluid"

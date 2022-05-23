@@ -13,7 +13,7 @@
                 <label for="title">Đường dẫn</label>
                 <input type="text" class="form-control" id="title">
             </div>
-            <a href="{{ route('admin.createCategory') }}"><button type="submit" class="btn btn-outline-dark">Làm mới</button></a>
+            <a href="/admin/category/create"><button type="submit" class="btn btn-outline-dark">Làm mới</button></a>
             <button type="submit" class="btn btn-dark">Thêm</button>
         </form>
     </div>

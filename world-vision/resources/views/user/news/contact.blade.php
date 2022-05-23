@@ -1,6 +1,6 @@
 @extends('layouts.uer_layout')
 
-@section('title', 'Liên hệ - World Vision 2 Tek')
+@section('title', 'Liên hệ - AKINA CENTER')
 
 @section('content')
     <div class="col-lg-9">
@@ -12,8 +12,7 @@
                         Liên hệ với chúng tôi
                     </h1>
                     <p class="text-secondary fs-15 mb-5 pb-3">
-                        This text can be added in the category Description field in
-                        dashboard
+
                     </p>
                 </div>
             </div>
@@ -67,9 +66,8 @@
                     <div class="row">
                         <div class="col-sm-12 text-center my-2">
                             <h1>Thông tin liên hệ</h1>
-                            <p class="mb-5 fs-15 text-center">
-                                This text can be added in the category Description field
-                                in dashboard
+                            <p class="text-secondary fs-15 mb-5 pb-3">
+
                             </p>
                             <div class="row">
                                 <div class="col-lg-5 mt-4">
@@ -77,13 +75,13 @@
                                         TÊN DOANH NGHIỆP
                                     </p>
                                     <p class="mb-4 font-weight-medium fs-14 d-flex">
-                                        World Vision 2 Tek
+                                        AKINA CENTER
                                     </p>
                                     <p class="mb-0 font-weight-bold fs-14 d-flex">
                                         ĐỊA CHỈ
                                     </p>
                                     <p class="mb-4 font-weight-medium fs-14 d-flex">
-                                        329 South Street Court - Albany, NY 83741
+                                        29 Đào Tấn, Thành Phố Huế
                                     </p>
                                     <p class="mb-0 font-weight-bold fs-14 d-flex">
                                         SỐ ĐIỆN THOẠI
@@ -95,7 +93,7 @@
                                         EMAIL
                                     </p>
                                     <p class="mb-4 font-weight-medium fs-14 d-flex">
-                                        2tek@worldvision.com
+                                        akinacenter@gmail.com
                                     </p>
                                 </div>
                                 <div class="col-lg-7">
@@ -124,7 +122,7 @@
 
         .form-control:focus,
         .form-control:active {
-            border-bottom: 1px solid #0a62fb;
+            border-bottom: 1px solid #d4aa51;
         }
 
         .img-contact {

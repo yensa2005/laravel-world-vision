@@ -16,11 +16,11 @@
                         <label for="category">Danh mục</label>
                         <select class="dropdown form-control" id="sel1" name="sellist1">
                             <option value="" disabled selected>Chọn danh mục</option>
-                            <option>Mobile</option>
-                            <option>Concept</option>
-                            <option>Ứng dụng</option>
-                            <option>Thủ thuật</option>
-                            <option>Công nghệ vui</option>
+                            <option>Trẻ hóa da</option>
+                            <option>Điều trị nám</option>
+                            <option>Điều trị mụn và sẹo</option>
+                            <option>Kiến thức da liễu</option>
+                            <option>Tin tức sự kiện</option>
                         </select>
                     </div>
                     <div class="form-group">
@@ -35,8 +35,7 @@
                     <div class="form-group form-check">
                         <label class="form-check-label">
                             <input class="form-check-input" type="checkbox">Tôi đồng ý với <a href="#">điều khoản</a> của
-                            World
-                            Vision
+                            AKINA CENTER
                         </label>
                     </div>
                     <div class="form-group form-check">
@@ -59,8 +58,8 @@
                         <input id="upload" type="file" onchange="readURL(this);" class="form-control border-0">
                         <label id="upload-label" for="upload" class="fs-12 font-weight-light text-dark"></label>
                         <div class="input-group-append">
-                            <label for="upload" class="btn btn-light m-0 px-4"><small
-                                    class="fs-12 text-white">Chọn ảnh</small></label>
+                            <label for="upload" class="btn btn-light m-0 px-4"><small class="fs-12 text-white">Chọn
+                                    ảnh</small></label>
                         </div>
                     </div>
                     <div class="image-area my-4"><img id="imageResult" src="#" alt=""
@@ -242,4 +241,6 @@
             infoArea.textContent = fileName;
         }
     </script>
+    <script src="ckeditor/ckfinder/ckfinder.js"></script>
+
 @endsection
